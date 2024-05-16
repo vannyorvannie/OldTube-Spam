@@ -1,0 +1,816 @@
+1700315231966	geckodriver	INFO	Listening on 127.0.0.1:57512
+1700315233941	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57513" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilenR3zMT"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1700315235823	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1700315236160	Marionette	INFO	Listening on port 57520
+WebDriver BiDi listening on ws://127.0.0.1:57513
+Read port: 57520
+1700315236918	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57513/devtools/browser/96874ca8-938b-47ba-853f-a37ffb301c31
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+JavaScript error: https://byteview.org/sign_up, line 114: TypeError: $(...).strength_meter is not a function
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://byteview.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://byteview.org."
+1700315265863	addons.xpi	ERROR	System addon update list error SyntaxError: The URI is malformed.
+1700315308588	Marionette	INFO	Stopped listening on port 57520
+Dynamically enable window occlusion 1
+1700315313057	geckodriver	INFO	Listening on 127.0.0.1:57579
+1700315315052	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57580" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilewnIf7T"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1700315316422	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1700315316613	Marionette	INFO	Listening on port 57587
+WebDriver BiDi listening on ws://127.0.0.1:57580
+Read port: 57587
+1700315316985	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57580/devtools/browser/081e7609-bc50-4a03-8a91-109e2d2dce61
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+JavaScript error: https://byteview.org/sign_up, line 114: TypeError: $(...).strength_meter is not a function
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://byteview.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://byteview.org."
+1700315329631	Marionette	INFO	Stopped listening on port 57587
+Dynamically enable window occlusion 1
+1700315412882	geckodriver	INFO	Listening on 127.0.0.1:57636
+1700315414892	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57637" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileLxINrQ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1700315416160	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1700315416341	Marionette	INFO	Listening on port 57644
+WebDriver BiDi listening on ws://127.0.0.1:57637
+Read port: 57644
+1700315416729	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57637/devtools/browser/f68d6f04-3e08-4954-adb7-c6acee4df104
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+JavaScript error: https://byteview.org/sign_up, line 114: TypeError: $(...).strength_meter is not a function
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://byteview.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://byteview.org."
+1700315428460	Marionette	INFO	Stopped listening on port 57644
+Dynamically enable window occlusion 1
+1700315433410	geckodriver	INFO	Listening on 127.0.0.1:57683
+1700315435404	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57684" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileojYGER"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1700315436057	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1700315436234	Marionette	INFO	Listening on port 57693
+WebDriver BiDi listening on ws://127.0.0.1:57684
+Read port: 57693
+1700315436615	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57684/devtools/browser/6b586dce-b184-4445-b201-247d3cf88dea
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+JavaScript error: https://byteview.org/sign_up, line 114: TypeError: $(...).strength_meter is not a function
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://byteview.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://byteview.org."
+1700315448056	Marionette	INFO	Stopped listening on port 57693
+Dynamically enable window occlusion 1
+1700317348179	geckodriver	INFO	Listening on 127.0.0.1:57910
+1700317350176	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57911" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileDvmQBU"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1700317351537	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1700317351746	Marionette	INFO	Listening on port 57918
+WebDriver BiDi listening on ws://127.0.0.1:57911
+Read port: 57918
+1700317352131	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1700317365368	geckodriver	INFO	Listening on 127.0.0.1:57928
+1700317367365	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57929" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilea49yLB"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1700317368492	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1700317368663	Marionette	INFO	Listening on port 57936
+Read port: 57936
+WebDriver BiDi listening on ws://127.0.0.1:57929
+1700317368791	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57929/devtools/browser/b714f9d7-7a9a-4429-a602-801c8fd83a59
+1700317398546	addons.xpi	ERROR	System addon update list error SyntaxError: The URI is malformed.
+1700317433182	Marionette	INFO	Stopped listening on port 57936
+Dynamically enable window occlusion 1
+1700317435498	geckodriver	INFO	Listening on 127.0.0.1:57984
+1700317437500	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57985" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile5NOkvb"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1700317438831	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1700317439032	Marionette	INFO	Listening on port 57992
+WebDriver BiDi listening on ws://127.0.0.1:57985
+Read port: 57992
+1700317439465	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57985/devtools/browser/1b725f75-c63d-4777-a6dd-90aa68b2705b
+1700317468864	addons.xpi	ERROR	System addon update list error SyntaxError: The URI is malformed.
+1700317501510	Marionette	INFO	Stopped listening on port 57992
+Dynamically enable window occlusion 1
+1700317504240	geckodriver	INFO	Listening on 127.0.0.1:58030
+1700317506236	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58031" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilefDrCq4"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1700317506811	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1700317506993	Marionette	INFO	Listening on port 58038
+WebDriver BiDi listening on ws://127.0.0.1:58031
+Read port: 58038
+1700317507373	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58031/devtools/browser/e091f59f-07a0-46ed-841b-a9f8795b9891
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+JavaScript error: https://s.ytimg.com/yt/jsbin/www-searchbox-vflsHyn9f.js, line 16: TypeError: c.initKeyEvent is not a function
+JavaScript error: https://s.ytimg.com/yt/jsbin/www-searchbox-vflsHyn9f.js, line 16: TypeError: c.initKeyEvent is not a function
+JavaScript error: https://s.ytimg.com/yt/jsbin/www-searchbox-vflsHyn9f.js, line 16: TypeError: c.initKeyEvent is not a function
+JavaScript error: https://s.ytimg.com/yt/jsbin/www-searchbox-vflsHyn9f.js, line 16: TypeError: c.initKeyEvent is not a function
+1700317536840	addons.xpi	ERROR	System addon update list error SyntaxError: The URI is malformed.
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1700317574490	Marionette	INFO	Stopped listening on port 58038
+Dynamically enable window occlusion 1
+1700317575551	geckodriver	INFO	Listening on 127.0.0.1:58091
+1700317577550	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58092" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileOybdS7"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1700317578130	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1700317578340	Marionette	INFO	Listening on port 58099
+Read port: 58099
+WebDriver BiDi listening on ws://127.0.0.1:58092
+1700317578483	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58092/devtools/browser/e6355b81-fd80-4950-8910-c58058b29904
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+JavaScript error: https://s.ytimg.com/yt/jsbin/www-searchbox-vflsHyn9f.js, line 16: TypeError: c.initKeyEvent is not a function
+JavaScript error: https://s.ytimg.com/yt/jsbin/www-searchbox-vflsHyn9f.js, line 16: TypeError: c.initKeyEvent is not a function
+JavaScript error: https://s.ytimg.com/yt/jsbin/www-searchbox-vflsHyn9f.js, line 16: TypeError: c.initKeyEvent is not a function
+JavaScript error: https://s.ytimg.com/yt/jsbin/www-searchbox-vflsHyn9f.js, line 16: TypeError: c.initKeyEvent is not a function
+1700317608167	addons.xpi	ERROR	System addon update list error SyntaxError: The URI is malformed.
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1700317676434	Marionette	INFO	Stopped listening on port 58099
+Dynamically enable window occlusion 1
+1700317678588	geckodriver	INFO	Listening on 127.0.0.1:58153
+1700317680586	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58154" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile8QQlQe"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1700317681153	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1700317681329	Marionette	INFO	Listening on port 58161
+WebDriver BiDi listening on ws://127.0.0.1:58154
+Read port: 58161
+1700317681736	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58154/devtools/browser/e037709a-3d77-4604-a7b4-f1df3abf17db
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+1700317711707	Marionette	INFO	Stopped listening on port 58161
+Dynamically enable window occlusion 1
+console.error: "DEPRECATION WARNING: Calling FileUtils.getDir(..., ..., true) causes main thread I/O and should be avoided especially during startup/shutdown\nYou may find more details about this deprecation at: https://bugzilla.mozilla.org/show_bug.cgi?id=921157\nresource://gre/modules/FileUtils.sys.mjs 62 FileUtils_getDir\nresource://gre/modules/UpdateService.sys.mjs 1057 getUpdateDirCreate\nresource://gre/modules/UpdateService.sys.mjs 1096 getUpdateFile\nresource://gre/modules/UpdateService.sys.mjs 4431 UM__loadXMLFileIntoArray\nresource://gre/modules/UpdateService.sys.mjs 4265 UpdateManager\nresource://gre/modules/XPCOMUtils.sys.mjs 137 defineLazyServiceGetter/<\nresource://gre/modules/UpdateService.sys.mjs 3365 get _pingSuffix\nresource://gre/modules/UpdateService.sys.mjs 3408 AUS__checkForBackgroundUpdates\nresource://gre/modules/UpdateService.sys.mjs 3353 AUS_notify\nresource://gre/modules/UpdateTimerManager.sys.mjs 199 TM_notify/</<\n"
+console.error: "DEPRECATION WARNING: Calling FileUtils.getDir(..., ..., true) causes main thread I/O and should be avoided especially during startup/shutdown\nYou may find more details about this deprecation at: https://bugzilla.mozilla.org/show_bug.cgi?id=921157\nresource://gre/modules/FileUtils.sys.mjs 62 FileUtils_getDir\nresource://gre/modules/UpdateService.sys.mjs 1057 getUpdateDirCreate\nresource://gre/modules/UpdateService.sys.mjs 1096 getUpdateFile\nresource://gre/modules/UpdateService.sys.mjs 774 getCanApplyUpdates\nresource://gre/modules/UpdateService.sys.mjs 3416 AUS__checkForBackgroundUpdates\nresource://gre/modules/UpdateService.sys.mjs 3353 AUS_notify\nresource://gre/modules/UpdateTimerManager.sys.mjs 199 TM_notify/</<\n"
+1700317711855	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, channelStatus: 2147500036, errorCode: 2, reason: error
+console.error: (new Error("Polling for changes failed: NetworkError: Network request failed.", "resource://services-settings/remote-settings.sys.mjs", 324))
+console.error: Region.sys.mjs: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", "resource://gre/modules/Region.sys.mjs", 738))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.sys.mjs", 411))
+1700317713063	geckodriver	INFO	Listening on 127.0.0.1:58204
+1700317715058	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58205" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileqi6jcv"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1700317715627	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1700317715830	Marionette	INFO	Listening on port 58213
+WebDriver BiDi listening on ws://127.0.0.1:58205
+Read port: 58213
+1700317716172	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58205/devtools/browser/ca73df6d-5967-4ab0-89b8-24e5073b5ae1
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://byteview.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://byteview.org."
+JavaScript error: https://byteview.org/upload_video, line 18: TypeError: window.yt is undefined
+1700317745659	addons.xpi	ERROR	System addon update list error SyntaxError: The URI is malformed.
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1700317805589	Marionette	INFO	Stopped listening on port 58213
+Dynamically enable window occlusion 1
+osts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilehMJmOs"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1700317804745	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1700317805021	Marionette	INFO	Listening on port 58266
+WebDriver BiDi listening on ws://127.0.0.1:58259
+Read port: 58266
+1700317805494	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58259/devtools/browser/0e26b502-e3c7-49b0-9058-e9ce84220820
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://byteview.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://byteview.org."
+JavaScript error: https://byteview.org/upload_video, line 18: TypeError: window.yt is undefined
+JavaScript error: https://byteview.org/upload_video, line 424: TypeError: document.getElementById(...) is null
+1700317834781	addons.xpi	ERROR	System addon update list error SyntaxError: The URI is malformed.
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1700317872837	Marionette	INFO	Stopped listening on port 58266
+Dynamically enable window occlusion 1
+1700317879097	geckodriver	INFO	Listening on 127.0.0.1:58328
+1700317881095	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58329" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile7iit2P"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1700317881657	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1700317881829	Marionette	INFO	Listening on port 58336
+WebDriver BiDi listening on ws://127.0.0.1:58329
+Read port: 58336
+1700317882243	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58329/devtools/browser/41176417-963f-4a72-9758-4dc6a60cba54
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://byteview.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://byteview.org."
+JavaScript error: https://byteview.org/upload_video, line 18: TypeError: window.yt is undefined
+JavaScript error: https://byteview.org/upload_video, line 424: TypeError: document.getElementById(...) is null
+1700317911691	addons.xpi	ERROR	System addon update list error SyntaxError: The URI is malformed.
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1700317925067	Marionette	INFO	Stopped listening on port 58336
+Dynamically enable window occlusion 1
+[Parent 18780, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:599
+1700317925838	geckodriver	INFO	Listening on 127.0.0.1:58382
+1700317927836	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58383" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilekOrclB"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1700317928428	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1700317928611	Marionette	INFO	Listening on port 58390
+WebDriver BiDi listening on ws://127.0.0.1:58383
+Read port: 58390
+1700317928948	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58383/devtools/browser/ba1f1dfd-5907-45f1-b5aa-953370952ce9
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://byteview.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://byteview.org."
+JavaScript error: https://byteview.org/upload_video, line 18: TypeError: window.yt is undefined
+JavaScript error: https://byteview.org/upload_video, line 424: TypeError: document.getElementById(...) is null
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://byteview.org."
+JavaScript error: https://byteview.org/upload_video, line 484: ReferenceError: started_at is not defined
+1700317958524	addons.xpi	ERROR	System addon update list error SyntaxError: The URI is malformed.
+1700317961430	geckodriver	INFO	Listening on 127.0.0.1:58435
+1700317963422	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58436" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileWgp8kF"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1700317964078	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1700317964308	Marionette	INFO	Listening on port 58443
+WebDriver BiDi listening on ws://127.0.0.1:58436
+Read port: 58443
+1700317964708	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58436/devtools/browser/f6e870a0-41d8-4927-80e8-a6a8b5782852
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://byteview.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://byteview.org."
+JavaScript error: https://byteview.org/upload_video, line 18: TypeError: window.yt is undefined
+JavaScript error: https://byteview.org/upload_video, line 438: TypeError: document.getElementById(...) is null
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://byteview.org."
+JavaScript error: https://byteview.org/upload_video, line 498: ReferenceError: started_at is not defined
+1700317991489	Marionette	INFO	Stopped listening on port 58443
+Dynamically enable window occlusion 1
+1700317996118	geckodriver	INFO	Listening on 127.0.0.1:58488
+1700317998111	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58489" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileB0CyNu"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1700317998936	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1700317999134	Marionette	INFO	Listening on port 58496
+WebDriver BiDi listening on ws://127.0.0.1:58489
+Read port: 58496
+1700317999656	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58489/devtools/browser/e162f5b8-e84a-4355-8846-4df182be0cab
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://byteview.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://byteview.org."
+JavaScript error: https://byteview.org/upload_video, line 18: TypeError: window.yt is undefined
+JavaScript error: https://byteview.org/upload_video, line 424: TypeError: document.getElementById(...) is null
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://byteview.org."
+JavaScript error: https://byteview.org/upload_video, line 484: ReferenceError: started_at is not defined
+1700318028963	addons.xpi	ERROR	System addon update list error SyntaxError: The URI is malformed.
+1700318030666	Marionette	INFO	Stopped listening on port 58496
+Dynamically enable window occlusion 1
+console.error: services.settings: 
+  Message: NetworkError: Network error: TypeError: NetworkError: Network request failed
+  Stack:
+    APIError@resource://services-settings/RemoteSettingsClient.sys.mjs:111:1
+NetworkError@resource://services-settings/RemoteSettingsClient.sys.mjs:115:5
+_adjustedError@resource://services-settings/RemoteSettingsClient.sys.mjs:911:14
+maybeSync@resource://services-settings/RemoteSettingsClient.sys.mjs:816:38
+
+console.warn: services.settings: main/devtools-compatibility-browsers sync interrupted by shutdown
+console.warn: services.settings: main/sites-classification sync interrupted by shutdown
+console.warn: services.settings: main/anti-tracking-url-decoration sync interrupted by shutdown
+console.error: (new AbortError("IndexedDB: main/cfr-srg getLastModified() IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort.", "resource://services-settings/IDBHelpers.jsm", 18))
+1700318033569	geckodriver	INFO	Listening on 127.0.0.1:58541
+1700318035567	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58542" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileInF8ds"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1700318036917	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1700318037190	Marionette	INFO	Listening on port 58549
+WebDriver BiDi listening on ws://127.0.0.1:58542
+Read port: 58549
+1700318037749	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58542/devtools/browser/2fd57263-fae8-42a3-8bae-0610dbfa2639
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+[Parent 3528, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:793
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://byteview.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://byteview.org."
+JavaScript error: resource://devtools/client/jsonview/Sniffer.sys.mjs, line 53: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsIChannel.contentType]
+JavaScript error: https://byteview.org/upload_video, line 18: TypeError: window.yt is undefined
+JavaScript error: https://byteview.org/upload_video, line 424: TypeError: document.getElementById(...) is null
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://byteview.org."
+JavaScript error: https://byteview.org/upload_video, line 484: ReferenceError: started_at is not defined
+1700318065402	Marionette	INFO	Stopped listening on port 58549
+Dynamically enable window occlusion 1
+1700318068514	geckodriver	INFO	Listening on 127.0.0.1:58597
+1700318070506	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58598" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileF1OqhY"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1700318071531	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1700318071744	Marionette	INFO	Listening on port 58605
+WebDriver BiDi listening on ws://127.0.0.1:58598
+Read port: 58605
+1700318072158	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58598/devtools/browser/70373859-d447-4c9e-885e-814723a9770d
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://byteview.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://byteview.org."
+JavaScript error: https://byteview.org/upload_video, line 18: TypeError: window.yt is undefined
+JavaScript error: https://byteview.org/upload_video, line 424: TypeError: document.getElementById(...) is null
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://byteview.org."
+JavaScript error: https://byteview.org/upload_video, line 484: ReferenceError: started_at is not defined
+1700318099247	Marionette	INFO	Stopped listening on port 58605
+Dynamically enable window occlusion 1
+1700318118300	geckodriver	INFO	Listening on 127.0.0.1:58652
+1700318120298	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58653" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilepW40ft"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1700318121555	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1700318121734	Marionette	INFO	Listening on port 58660
+WebDriver BiDi listening on ws://127.0.0.1:58653
+Read port: 58660
+1700318122136	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58653/devtools/browser/88a84e65-da7e-496e-b8ad-fca950006c91
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://byteview.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://byteview.org."
+JavaScript error: https://byteview.org/upload_video, line 18: TypeError: window.yt is undefined
+JavaScript error: https://byteview.org/upload_video, line 452: TypeError: document.getElementById(...) is null
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://byteview.org."
+JavaScript error: https://byteview.org/upload_video, line 512: ReferenceError: started_at is not defined
+1700318149940	Marionette	INFO	Stopped listening on port 58660
+Dynamically enable window occlusion 1
+1700318154674	geckodriver	INFO	Listening on 127.0.0.1:58700
+1700318156669	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58701" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilevOtNgL"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1700318157463	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1700318157629	Marionette	INFO	Listening on port 58708
+WebDriver BiDi listening on ws://127.0.0.1:58701
+Read port: 58708
+1700318158298	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58701/devtools/browser/b8642627-8b19-49f5-8d31-7919590bf881
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://byteview.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://byteview.org."
+JavaScript error: https://byteview.org/upload_video, line 18: TypeError: window.yt is undefined
+JavaScript error: https://byteview.org/upload_video, line 438: TypeError: document.getElementById(...) is null
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://byteview.org."
+JavaScript error: https://byteview.org/upload_video, line 498: ReferenceError: started_at is not defined
+1700318185579	Marionette	INFO	Stopped listening on port 58708
+Dynamically enable window occlusion 1
+1700318188452	geckodriver	INFO	Listening on 127.0.0.1:58745
+1700318190446	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58746" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileF9MNGx"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1700318191217	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1700318191421	Marionette	INFO	Listening on port 58754
+WebDriver BiDi listening on ws://127.0.0.1:58746
+Read port: 58754
+1700318191816	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58746/devtools/browser/8802baef-8ded-4b34-b6b9-4675c319edf5
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://byteview.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://byteview.org."
+JavaScript error: https://byteview.org/upload_video, line 18: TypeError: window.yt is undefined
+JavaScript error: https://byteview.org/upload_video, line 438: TypeError: document.getElementById(...) is null
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://byteview.org."
+JavaScript error: https://byteview.org/upload_video, line 498: ReferenceError: started_at is not defined
+1700318220475	Marionette	INFO	Stopped listening on port 58754
+Dynamically enable window occlusion 1
+console.error: "DEPRECATION WARNING: Calling FileUtils.getDir(..., ..., true) causes main thread I/O and should be avoided especially during startup/shutdown\nYou may find more details about this deprecation at: https://bugzilla.mozilla.org/show_bug.cgi?id=921157\nresource://gre/modules/FileUtils.sys.mjs 62 FileUtils_getDir\nresource://gre/modules/UpdateService.sys.mjs 1057 getUpdateDirCreate\nresource://gre/modules/UpdateService.sys.mjs 1096 getUpdateFile\nresource://gre/modules/UpdateService.sys.mjs 4431 UM__loadXMLFileIntoArray\nresource://gre/modules/UpdateService.sys.mjs 4265 UpdateManager\nresource://gre/modules/XPCOMUtils.sys.mjs 137 defineLazyServiceGetter/<\nresource://gre/modules/UpdateService.sys.mjs 3365 get _pingSuffix\nresource://gre/modules/UpdateService.sys.mjs 3408 AUS__checkForBackgroundUpdates\nresource://gre/modules/UpdateService.sys.mjs 3353 AUS_notify\nresource://gre/modules/UpdateTimerManager.sys.mjs 199 TM_notify/</<\n"
+console.error: "DEPRECATION WARNING: Calling FileUtils.getDir(..., ..., true) causes main thread I/O and should be avoided especially during startup/shutdown\nYou may find more details about this deprecation at: https://bugzilla.mozilla.org/show_bug.cgi?id=921157\nresource://gre/modules/FileUtils.sys.mjs 62 FileUtils_getDir\nresource://gre/modules/UpdateService.sys.mjs 1057 getUpdateDirCreate\nresource://gre/modules/UpdateService.sys.mjs 1096 getUpdateFile\nresource://gre/modules/UpdateService.sys.mjs 774 getCanApplyUpdates\nresource://gre/modules/UpdateService.sys.mjs 3416 AUS__checkForBackgroundUpdates\nresource://gre/modules/UpdateService.sys.mjs 3353 AUS_notify\nresource://gre/modules/UpdateTimerManager.sys.mjs 199 TM_notify/</<\n"
+1700318221640	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, channelStatus: null, errorCode: 5, reason: error
+console.error: Region.sys.mjs: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", "resource://gre/modules/Region.sys.mjs", 738))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.sys.mjs", 411))
+[Parent 16456, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:793
+1700318223374	geckodriver	INFO	Listening on 127.0.0.1:58795
+1700318225370	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58796" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilexKeyQR"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1700318226014	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1700318226214	Marionette	INFO	Listening on port 58804
+WebDriver BiDi listening on ws://127.0.0.1:58796
+Read port: 58804
+1700318226687	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58796/devtools/browser/a6f2f60d-b7cc-41c1-afa5-eb73d2a9b379
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://byteview.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://byteview.org."
+JavaScript error: https://byteview.org/upload_video, line 18: TypeError: window.yt is undefined
+JavaScript error: https://byteview.org/upload_video, line 438: TypeError: document.getElementById(...) is null
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://byteview.org."
+JavaScript error: https://byteview.org/upload_video, line 498: ReferenceError: started_at is not defined
+1700318254241	Marionette	INFO	Stopped listening on port 58804
+Dynamically enable window occlusion 1
+[Parent 16044, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:599
+1700318278355	geckodriver	INFO	Listening on 127.0.0.1:58858
+1700318280343	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58859" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilesFKY7s"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1700318280954	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1700318281151	Marionette	INFO	Listening on port 58866
+Read port: 58866
+WebDriver BiDi listening on ws://127.0.0.1:58859
+1700318281302	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58859/devtools/browser/1dba5243-2205-4fd9-b203-93d534a75f26
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://byteview.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://byteview.org."
+JavaScript error: https://byteview.org/upload_video, line 18: TypeError: window.yt is undefined
+JavaScript error: https://byteview.org/upload_video, line 466: TypeError: document.getElementById(...) is null
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://byteview.org."
+JavaScript error: https://byteview.org/upload_video, line 526: ReferenceError: started_at is not defined
+1700318309903	Marionette	INFO	Stopped listening on port 58866
+Dynamically enable window occlusion 1
+console.error: "DEPRECATION WARNING: Calling FileUtils.getDir(..., ..., true) causes main thread I/O and should be avoided especially during startup/shutdown\nYou may find more details about this deprecation at: https://bugzilla.mozilla.org/show_bug.cgi?id=921157\nresource://gre/modules/FileUtils.sys.mjs 62 FileUtils_getDir\nresource://gre/modules/UpdateService.sys.mjs 1057 getUpdateDirCreate\nresource://gre/modules/UpdateService.sys.mjs 1096 getUpdateFile\nresource://gre/modules/UpdateService.sys.mjs 4431 UM__loadXMLFileIntoArray\nresource://gre/modules/UpdateService.sys.mjs 4265 UpdateManager\nresource://gre/modules/XPCOMUtils.sys.mjs 137 defineLazyServiceGetter/<\nresource://gre/modules/UpdateService.sys.mjs 3365 get _pingSuffix\nresource://gre/modules/UpdateService.sys.mjs 3408 AUS__checkForBackgroundUpdates\nresource://gre/modules/UpdateService.sys.mjs 3353 AUS_notify\nresource://gre/modules/UpdateTimerManager.sys.mjs 199 TM_notify/</<\nresource://gre/modules/AsyncShutdown.sys.mjs 575 observe\n"
+console.error: "DEPRECATION WARNING: Calling FileUtils.getDir(..., ..., true) causes main thread I/O and should be avoided especially during startup/shutdown\nYou may find more details about this deprecation at: https://bugzilla.mozilla.org/show_bug.cgi?id=921157\nresource://gre/modules/FileUtils.sys.mjs 62 FileUtils_getDir\nresource://gre/modules/UpdateService.sys.mjs 1057 getUpdateDirCreate\nresource://gre/modules/UpdateService.sys.mjs 1096 getUpdateFile\nresource://gre/modules/UpdateService.sys.mjs 774 getCanApplyUpdates\nresource://gre/modules/UpdateService.sys.mjs 3416 AUS__checkForBackgroundUpdates\nresource://gre/modules/UpdateService.sys.mjs 3353 AUS_notify\nresource://gre/modules/UpdateTimerManager.sys.mjs 199 TM_notify/</<\nresource://gre/modules/AsyncShutdown.sys.mjs 575 observe\n"
+JavaScript error: resource://gre/modules/AddonManager.sys.mjs, line 1250: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+console.error: Region.sys.mjs: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", "resource://gre/modules/Region.sys.mjs", 738))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.sys.mjs", 411))
+1700318315050	geckodriver	INFO	Listening on 127.0.0.1:58918
+1700318317048	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58919" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilecBDlSc"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1700318317849	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1700318318029	Marionette	INFO	Listening on port 58926
+WebDriver BiDi listening on ws://127.0.0.1:58919
+Read port: 58926
+1700318318418	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58919/devtools/browser/dc45c630-aba6-417f-914d-e28c52950f73
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://byteview.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://byteview.org."
+JavaScript error: https://byteview.org/upload_video, line 18: TypeError: window.yt is undefined
+JavaScript error: https://byteview.org/upload_video, line 452: TypeError: document.getElementById(...) is null
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://byteview.org."
+JavaScript error: https://byteview.org/upload_video, line 512: ReferenceError: started_at is not defined
+1700318347540	Marionette	INFO	Stopped listening on port 58926
+Dynamically enable window occlusion 1
+console.error: "DEPRECATION WARNING: Calling FileUtils.getDir(..., ..., true) causes main thread I/O and should be avoided especially during startup/shutdown\nYou may find more details about this deprecation at: https://bugzilla.mozilla.org/show_bug.cgi?id=921157\nresource://gre/modules/FileUtils.sys.mjs 62 FileUtils_getDir\nresource://gre/modules/UpdateService.sys.mjs 1057 getUpdateDirCreate\nresource://gre/modules/UpdateService.sys.mjs 1096 getUpdateFile\nresource://gre/modules/UpdateService.sys.mjs 4431 UM__loadXMLFileIntoArray\nresource://gre/modules/UpdateService.sys.mjs 4265 UpdateManager\nresource://gre/modules/XPCOMUtils.sys.mjs 137 defineLazyServiceGetter/<\nresource://gre/modules/UpdateService.sys.mjs 3365 get _pingSuffix\nresource://gre/modules/UpdateService.sys.mjs 3408 AUS__checkForBackgroundUpdates\nresource://gre/modules/UpdateService.sys.mjs 3353 AUS_notify\nresource://gre/modules/UpdateTimerManager.sys.mjs 199 TM_notify/</<\nresource://gre/modules/AsyncShutdown.sys.mjs 575 observe\n"
+console.error: "DEPRECATION WARNING: Calling FileUtils.getDir(..., ..., true) causes main thread I/O and should be avoided especially during startup/shutdown\nYou may find more details about this deprecation at: https://bugzilla.mozilla.org/show_bug.cgi?id=921157\nresource://gre/modules/FileUtils.sys.mjs 62 FileUtils_getDir\nresource://gre/modules/UpdateService.sys.mjs 1057 getUpdateDirCreate\nresource://gre/modules/UpdateService.sys.mjs 1096 getUpdateFile\nresource://gre/modules/UpdateService.sys.mjs 774 getCanApplyUpdates\nresource://gre/modules/UpdateService.sys.mjs 3416 AUS__checkForBackgroundUpdates\nresource://gre/modules/UpdateService.sys.mjs 3353 AUS_notify\nresource://gre/modules/UpdateTimerManager.sys.mjs 199 TM_notify/</<\nresource://gre/modules/AsyncShutdown.sys.mjs 575 observe\n"
+JavaScript error: resource://gre/modules/AddonManager.sys.mjs, line 1250: NS_ERROR_NOT_INITIALIZED: AddonManager is not initialized
+console.error: Region.sys.mjs: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", "resource://gre/modules/Region.sys.mjs", 738))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.sys.mjs", 411))
+1700318350987	geckodriver	INFO	Listening on 127.0.0.1:58967
+1700318352975	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58968" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilepp34KM"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1700318353710	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1700318353934	Marionette	INFO	Listening on port 58976
+WebDriver BiDi listening on ws://127.0.0.1:58968
+Read port: 58976
+1700318354487	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:58968/devtools/browser/9fefc7dd-05f5-4582-81e0-1413e29d9a89
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://byteview.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://byteview.org."
+1700318383746	addons.xpi	ERROR	System addon update list error SyntaxError: The URI is malformed.
+JavaScript error: https://byteview.org/upload_video, line 18: TypeError: window.yt is undefined
+JavaScript error: https://byteview.org/upload_video, line 452: TypeError: document.getElementById(...) is null
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://byteview.org."
+JavaScript error: https://byteview.org/upload_video, line 512: ReferenceError: started_at is not defined
+1700318397420	Marionette	INFO	Stopped listening on port 58976
+Dynamically enable window occlusion 1
+[Parent 17188, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:599
+[Parent 17188, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:599
+1700318399998	geckodriver	INFO	Listening on 127.0.0.1:59025
+1700318402000	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59026" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileiySTFL"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1700318402663	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1700318402827	Marionette	INFO	Listening on port 59033
+WebDriver BiDi listening on ws://127.0.0.1:59026
+Read port: 59033
+1700318403191	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59026/devtools/browser/834cf7e3-4710-4ea3-9ad2-c09f2c9a7cd4
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://byteview.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://byteview.org."
+JavaScript error: https://byteview.org/upload_video, line 18: TypeError: window.yt is undefined
+JavaScript error: https://byteview.org/upload_video, line 452: TypeError: document.getElementById(...) is null
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://byteview.org."
+JavaScript error: https://byteview.org/upload_video, line 512: ReferenceError: started_at is not defined
+1700318430590	Marionette	INFO	Stopped listening on port 59033
+Dynamically enable window occlusion 1
+[Parent 6868, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:599
+1700318492908	geckodriver	INFO	Listening on 127.0.0.1:59083
+1700318494908	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59084" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileQcx9xH"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1700318496268	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1700318496515	Marionette	INFO	Listening on port 59091
+Read port: 59091
+WebDriver BiDi listening on ws://127.0.0.1:59084
+1700318496698	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59084/devtools/browser/513118ce-63e3-49c6-ac6d-1d284a2f89ed
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://byteview.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://byteview.org."
+JavaScript error: https://byteview.org/upload_video, line 18: TypeError: window.yt is undefined
+JavaScript error: https://byteview.org/upload_video, line 480: TypeError: document.getElementById(...) is null
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://byteview.org."
+JavaScript error: https://byteview.org/upload_video, line 540: ReferenceError: started_at is not defined
+1700318526307	addons.xpi	ERROR	System addon update list error SyntaxError: The URI is malformed.
+1700318529155	Marionette	INFO	Stopped listening on port 59091
+Dynamically enable window occlusion 1
+console.error: (new AbortError("IndexedDB: main/tracking-protection-lists getLastModified() IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort.", "resource://services-settings/IDBHelpers.jsm", 18))
+1700318533774	geckodriver	INFO	Listening on 127.0.0.1:59137
+1700318535768	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59138" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileszHlOf"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1700318536370	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1700318536556	Marionette	INFO	Listening on port 59145
+WebDriver BiDi listening on ws://127.0.0.1:59138
+Read port: 59145
+1700318536693	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59138/devtools/browser/828bcfed-4943-4289-bb74-77f86cacaf6a
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://byteview.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://byteview.org."
+JavaScript error: https://byteview.org/upload_video, line 18: TypeError: window.yt is undefined
+JavaScript error: https://byteview.org/upload_video, line 466: TypeError: document.getElementById(...) is null
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://byteview.org."
+JavaScript error: https://byteview.org/upload_video, line 526: ReferenceError: started_at is not defined
+1700318565249	Marionette	INFO	Stopped listening on port 59145
+Dynamically enable window occlusion 1
+[Parent 15552, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:599
+1700318567907	geckodriver	INFO	Listening on 127.0.0.1:59187
+1700318569900	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59188" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileP9s1hZ"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1700318570516	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1700318570704	Marionette	INFO	Listening on port 59195
+Read port: 59195
+WebDriver BiDi listening on ws://127.0.0.1:59188
+1700318570841	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59188/devtools/browser/9bb632f9-15f0-41a0-b5af-02a0bf25cf15
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://byteview.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://byteview.org."
+JavaScript error: https://byteview.org/upload_video, line 18: TypeError: window.yt is undefined
+JavaScript error: https://byteview.org/upload_video, line 466: TypeError: document.getElementById(...) is null
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://byteview.org."
+JavaScript error: https://byteview.org/upload_video, line 526: ReferenceError: started_at is not defined
+1700318598138	Marionette	INFO	Stopped listening on port 59195
+Dynamically enable window occlusion 1
+1700318601136	geckodriver	INFO	Listening on 127.0.0.1:59232
+1700318603141	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59233" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileGgFxBp"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1700318603784	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1700318603987	Marionette	INFO	Listening on port 59240
+WebDriver BiDi listening on ws://127.0.0.1:59233
+Read port: 59240
+1700318604440	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59233/devtools/browser/24c24286-f494-4c64-8e25-00bf08115ecc
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://byteview.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://byteview.org."
+JavaScript error: https://byteview.org/upload_video, line 18: TypeError: window.yt is undefined
+JavaScript error: https://byteview.org/upload_video, line 466: TypeError: document.getElementById(...) is null
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://byteview.org."
+JavaScript error: https://byteview.org/upload_video, line 526: ReferenceError: started_at is not defined
+1700318632350	Marionette	INFO	Stopped listening on port 59240
+Dynamically enable window occlusion 1
+[Parent 6644, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:793
+1700318841699	geckodriver	INFO	Listening on 127.0.0.1:59291
+1700318843700	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59292" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilehMHfia"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1700318844696	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1700318844906	Marionette	INFO	Listening on port 59303
+Read port: 59303
+WebDriver BiDi listening on ws://127.0.0.1:59292
+1700318845039	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59292/devtools/browser/23423ebe-db24-4785-91a2-54d3699b03cd
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://byteview.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://byteview.org."
+JavaScript error: https://byteview.org/upload_video, line 18: TypeError: window.yt is undefined
+JavaScript error: https://byteview.org/upload_video, line 494: TypeError: document.getElementById(...) is null
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://byteview.org."
+JavaScript error: https://byteview.org/upload_video, line 554: ReferenceError: started_at is not defined
+1700318874899	addons.xpi	ERROR	System addon update list error SyntaxError: The URI is malformed.
+1700318875104	Marionette	INFO	Stopped listening on port 59303
+Dynamically enable window occlusion 1
+console.error: (new Error("Polling for changes failed: NetworkError: Network request failed.", "resource://services-settings/remote-settings.sys.mjs", 324))
+1700318880078	geckodriver	INFO	Listening on 127.0.0.1:59357
+1700318882067	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59358" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile4VoyOw"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1700318883329	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1700318883547	Marionette	INFO	Listening on port 59367
+WebDriver BiDi listening on ws://127.0.0.1:59358
+Read port: 59367
+1700318883904	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59358/devtools/browser/4667082e-794a-48be-9b43-5129e9c7dd86
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://byteview.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://byteview.org."
+JavaScript error: https://byteview.org/upload_video, line 18: TypeError: window.yt is undefined
+JavaScript error: https://byteview.org/upload_video, line 480: TypeError: document.getElementById(...) is null
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://byteview.org."
+JavaScript error: https://byteview.org/upload_video, line 540: ReferenceError: started_at is not defined
+1700318912997	Marionette	INFO	Stopped listening on port 59367
+Dynamically enable window occlusion 1
+console.error: "DEPRECATION WARNING: Calling FileUtils.getDir(..., ..., true) causes main thread I/O and should be avoided especially during startup/shutdown\nYou may find more details about this deprecation at: https://bugzilla.mozilla.org/show_bug.cgi?id=921157\nresource://gre/modules/FileUtils.sys.mjs 62 FileUtils_getDir\nresource://gre/modules/UpdateService.sys.mjs 1057 getUpdateDirCreate\nresource://gre/modules/UpdateService.sys.mjs 1096 getUpdateFile\nresource://gre/modules/UpdateService.sys.mjs 4431 UM__loadXMLFileIntoArray\nresource://gre/modules/UpdateService.sys.mjs 4265 UpdateManager\nresource://gre/modules/XPCOMUtils.sys.mjs 137 defineLazyServiceGetter/<\nresource://gre/modules/UpdateService.sys.mjs 3365 get _pingSuffix\nresource://gre/modules/UpdateService.sys.mjs 3408 AUS__checkForBackgroundUpdates\nresource://gre/modules/UpdateService.sys.mjs 3353 AUS_notify\nresource://gre/modules/UpdateTimerManager.sys.mjs 199 TM_notify/</<\n"
+console.error: "DEPRECATION WARNING: Calling FileUtils.getDir(..., ..., true) causes main thread I/O and should be avoided especially during startup/shutdown\nYou may find more details about this deprecation at: https://bugzilla.mozilla.org/show_bug.cgi?id=921157\nresource://gre/modules/FileUtils.sys.mjs 62 FileUtils_getDir\nresource://gre/modules/UpdateService.sys.mjs 1057 getUpdateDirCreate\nresource://gre/modules/UpdateService.sys.mjs 1096 getUpdateFile\nresource://gre/modules/UpdateService.sys.mjs 774 getCanApplyUpdates\nresource://gre/modules/UpdateService.sys.mjs 3416 AUS__checkForBackgroundUpdates\nresource://gre/modules/UpdateService.sys.mjs 3353 AUS_notify\nresource://gre/modules/UpdateTimerManager.sys.mjs 199 TM_notify/</<\n"
+1700318914543	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, channelStatus: 2147500036, errorCode: 2, reason: error
+console.error: (new Error("Polling for changes failed: NetworkError: Network request failed.", "resource://services-settings/remote-settings.sys.mjs", 324))
+console.error: Region.sys.mjs: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", "resource://gre/modules/Region.sys.mjs", 738))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.sys.mjs", 411))
+[Parent 3112, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:599
+1700318916362	geckodriver	INFO	Listening on 127.0.0.1:59409
+1700318918353	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59410" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileDXpZMk"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1700318919022	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1700318919237	Marionette	INFO	Listening on port 59417
+WebDriver BiDi listening on ws://127.0.0.1:59410
+Read port: 59417
+1700318919393	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59410/devtools/browser/788ed883-050e-44a5-816d-a49320f9f707
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://byteview.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://byteview.org."
+JavaScript error: https://byteview.org/upload_video, line 18: TypeError: window.yt is undefined
+JavaScript error: https://byteview.org/upload_video, line 480: TypeError: document.getElementById(...) is null
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://byteview.org."
+JavaScript error: https://byteview.org/upload_video, line 540: ReferenceError: started_at is not defined
+1700318949055	addons.xpi	ERROR	System addon update list error SyntaxError: The URI is malformed.
+1700318956624	Marionette	INFO	Stopped listening on port 59417
+Dynamically enable window occlusion 1
+[Parent 9544, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:599
+1700318959432	geckodriver	INFO	Listening on 127.0.0.1:59461
+1700318961414	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59462" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileOiFZlf"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1700318962078	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1700318962286	Marionette	INFO	Listening on port 59469
+WebDriver BiDi listening on ws://127.0.0.1:59462
+Read port: 59469
+1700318962764	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59462/devtools/browser/6d9dec04-afff-4e36-9970-a6ee5d83793c
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://byteview.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://byteview.org."
+JavaScript error: https://byteview.org/upload_video, line 18: TypeError: window.yt is undefined
+JavaScript error: https://byteview.org/upload_video, line 480: TypeError: document.getElementById(...) is null
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://byteview.org."
+JavaScript error: https://byteview.org/upload_video, line 540: ReferenceError: started_at is not defined
+1700318990418	Marionette	INFO	Stopped listening on port 59469
+Dynamically enable window occlusion 1
+[Parent 13248, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:599
+[Parent 13248, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:599
+1700319006055	geckodriver	INFO	Listening on 127.0.0.1:59524
+1700319008042	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59525" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile9lym2o"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1700319008708	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1700319008941	Marionette	INFO	Listening on port 59532
+Read port: 59532
+WebDriver BiDi listening on ws://127.0.0.1:59525
+1700319009122	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59525/devtools/browser/68c8c285-25d4-4774-92d4-4393e8127c98
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://byteview.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://byteview.org."
+JavaScript error: https://byteview.org/upload_video, line 18: TypeError: window.yt is undefined
+JavaScript error: https://byteview.org/upload_video, line 508: TypeError: document.getElementById(...) is null
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://byteview.org."
+JavaScript error: https://byteview.org/upload_video, line 568: ReferenceError: started_at is not defined
+1700319038745	addons.xpi	ERROR	System addon update list error SyntaxError: The URI is malformed.
+1700319039524	Marionette	INFO	Stopped listening on port 59532
+Dynamically enable window occlusion 1
+console.warn: services.settings: blocklists/gfx sync interrupted by shutdown
+console.warn: services.settings: blocklists/addons-bloomfilters sync interrupted by shutdown
+console.warn: services.settings: main/cookie-banner-rules-list sync interrupted by shutdown
+console.warn: services.settings: main/normandy-recipes-capabilities sync interrupted by shutdown
+console.warn: services.settings: main/url-classifier-skip-urls sync interrupted by shutdown
+console.error: (new AbortError("IndexedDB: main/devtools-compatibility-browsers getLastModified() IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort.", "resource://services-settings/IDBHelpers.jsm", 18))
+[Parent 11748, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:599
+[Parent 11748, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:599
+1700319044695	geckodriver	INFO	Listening on 127.0.0.1:59579
+1700319046690	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59580" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile7lgPH9"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1700319048122	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1700319048339	Marionette	INFO	Listening on port 59587
+WebDriver BiDi listening on ws://127.0.0.1:59580
+Read port: 59587
+1700319048810	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59580/devtools/browser/27f73fce-c98c-45b9-b904-8087a86f5ca5
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://byteview.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://byteview.org."
+JavaScript error: https://byteview.org/upload_video, line 18: TypeError: window.yt is undefined
+JavaScript error: https://byteview.org/upload_video, line 494: TypeError: document.getElementById(...) is null
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://byteview.org."
+JavaScript error: https://byteview.org/upload_video, line 554: ReferenceError: started_at is not defined
+1700319078219	addons.xpi	ERROR	System addon update list error SyntaxError: The URI is malformed.
+1700319082712	Marionette	INFO	Stopped listening on port 59587
+Dynamically enable window occlusion 1
+console.error: services.settings: 
+  Message: StorageError: Storage error: Error: IndexedDB: main/doh-config list() IndexedDB:  execute() The application is shutting down
+  Stack:
+    StorageError@resource://services-settings/RemoteSettingsClient.sys.mjs:157:5
+_adjustedError@resource://services-settings/RemoteSettingsClient.sys.mjs:928:14
+maybeSync@resource://services-settings/RemoteSettingsClient.sys.mjs:816:38
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:575:17
+
+console.error: (new Error("IndexedDB: main/devtools-devices getLastModified() IndexedDB:  execute() The application is shutting down", "resource://services-settings/IDBHelpers.jsm", 18))
+[Parent 5208, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:599
+[Parent 5208, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:599
+1700319085795	geckodriver	INFO	Listening on 127.0.0.1:59629
+1700319087789	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59630" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileNHGfvH"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1700319088489	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1700319088691	Marionette	INFO	Listening on port 59637
+WebDriver BiDi listening on ws://127.0.0.1:59630
+Read port: 59637
+1700319089142	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59630/devtools/browser/65252f68-f6a7-433b-a83b-c05d6db8cd87
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://byteview.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://byteview.org."
+JavaScript error: https://byteview.org/upload_video, line 18: TypeError: window.yt is undefined
+JavaScript error: https://byteview.org/upload_video, line 494: TypeError: document.getElementById(...) is null
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://byteview.org."
+JavaScript error: https://byteview.org/upload_video, line 554: ReferenceError: started_at is not defined
+1700319116536	Marionette	INFO	Stopped listening on port 59637
+Dynamically enable window occlusion 1
+[Parent 6792, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:599
+[Parent 6792, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:599
+1700319119098	geckodriver	INFO	Listening on 127.0.0.1:59676
+1700319121088	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59677" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofiley2OgCV"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1700319121731	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1700319121973	Marionette	INFO	Listening on port 59684
+WebDriver BiDi listening on ws://127.0.0.1:59677
+Read port: 59684
+1700319122476	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59677/devtools/browser/61ad235b-fcc7-4adf-aeaf-fb86f7980476
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://byteview.org."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://byteview.org."
+JavaScript error: https://byteview.org/upload_video, line 18: TypeError: window.yt is undefined
+JavaScript error: https://byteview.org/upload_video, line 494: TypeError: document.getElementById(...) is null
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://byteview.org."
+JavaScript error: https://byteview.org/upload_video, line 554: ReferenceError: started_at is not defined
+1700319151778	addons.xpi	ERROR	System addon update list error SyntaxError: The URI is malformed.
+1700319154601	Marionette	INFO	Stopped listening on port 59684
+Dynamically enable window occlusion 1
+console.error: services.settings: 
+  Message: StorageError: Storage error: Error: IndexedDB: main/normandy-recipes-capabilities pruneAttachments() IndexedDB:  execute() The application is shutting down
+  Stack:
+    StorageError@resource://services-settings/RemoteSettingsClient.sys.mjs:157:5
+_adjustedError@resource://services-settings/RemoteSettingsClient.sys.mjs:928:14
+maybeSync@resource://services-settings/RemoteSettingsClient.sys.mjs:816:38
+observe@resource://gre/modules/AsyncShutdown.sys.mjs:575:17
+
+console.error: (new Error("IndexedDB: main/nimbus-mobile-experiments getLastModified() IndexedDB:  execute() The application is shutting down", "resource://services-settings/IDBHelpers.jsm", 18))

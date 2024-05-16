@@ -1,0 +1,1701 @@
+1699261630809	geckodriver	INFO	Listening on 127.0.0.1:59739
+1699261632811	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59740" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileqEyGKg"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1699261633414	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1699261633744	Marionette	INFO	Listening on port 59747
+WebDriver BiDi listening on ws://127.0.0.1:59740
+Read port: 59747
+1699261634236	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59740/devtools/browser/d4d3b5a9-6222-4339-bc21-1f7e40f1cbc7
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+JavaScript error: https://www.eracast.cc/sign_up, line 127: TypeError: $(...).strength_meter is not a function
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.eracast.cc."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.eracast.cc."
+JavaScript error: https://www.eracast.cc/sign_up, line 134: TypeError: $(...).strength_meter is not a function
+1699261663450	addons.xpi	ERROR	System addon update list error SyntaxError: The URI is malformed.
+1699261716400	Marionette	INFO	Stopped listening on port 59747
+Dynamically enable window occlusion 1
+[Parent 10176, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:793
+I~1\\AppData\\Local\\Temp\\rust_mozprofileHQaZ9K"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1699261717238	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1699261717402	Marionette	INFO	Listening on port 59807
+WebDriver BiDi listening on ws://127.0.0.1:59800
+Read port: 59807
+1699261717787	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59800/devtools/browser/ec82f426-716f-4160-a30a-5baee1839251
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+JavaScript error: https://www.eracast.cc/sign_up, line 127: TypeError: $(...).strength_meter is not a function
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.eracast.cc."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.eracast.cc."
+JavaScript error: https://www.eracast.cc/channels?success=You%20have%20successfully%20created%20a%20EraCast%20account, line 391: ReferenceError: __wm is not defined
+1699261732191	Marionette	INFO	Stopped listening on port 59807
+Dynamically enable window occlusion 1
+1699261795431	geckodriver	INFO	Listening on 127.0.0.1:59860
+1699261797425	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59861" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilexqql9F"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1699261798315	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1699261798491	Marionette	INFO	Listening on port 59868
+WebDriver BiDi listening on ws://127.0.0.1:59861
+Read port: 59868
+1699261798927	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59861/devtools/browser/e2b18f33-3d3d-47cd-96b2-b22fc09a5323
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+JavaScript error: https://www.eracast.cc/sign_up, line 127: TypeError: $(...).strength_meter is not a function
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.eracast.cc."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.eracast.cc."
+JavaScript error: https://www.eracast.cc/channels?success=You%20have%20successfully%20created%20a%20EraCast%20account, line 391: ReferenceError: __wm is not defined
+1699261828391	addons.xpi	ERROR	System addon update list error SyntaxError: The URI is malformed.
+JavaScript error: https://www.eracast.cc/upload_video, line 491: ReferenceError: started_at is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 491: ReferenceError: started_at is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 491: ReferenceError: started_at is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 491: ReferenceError: started_at is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 491: ReferenceError: started_at is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 491: ReferenceError: started_at is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 491: ReferenceError: started_at is not defined
+JavaScript error: https://s.ytimg.com/yt/jsbin/www-searchbox-vflsHyn9f.js, line 16: TypeError: c.initKeyEvent is not a function
+JavaScript error: https://s.ytimg.com/yt/jsbin/www-searchbox-vflsHyn9f.js, line 16: TypeError: c.initKeyEvent is not a function
+JavaScript error: https://s.ytimg.com/yt/jsbin/www-searchbox-vflsHyn9f.js, line 16: TypeError: c.initKeyEvent is not a function
+JavaScript error: https://s.ytimg.com/yt/jsbin/www-searchbox-vflsHyn9f.js, line 16: TypeError: c.initKeyEvent is not a function
+JavaScript error: https://www.eracast.cc/channels?success=You%20have%20successfully%20created%20a%20EraCast%20account, line 391: ReferenceError: __wm is not defined
+console.error: "Unable to find target with innerWindowId:6442450959"
+console.error: "Unable to find target with innerWindowId:6442450959"
+console.error: "Unable to find target with innerWindowId:6442450959"
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.error: "Unable to find target with innerWindowId:6442450968"
+console.error: "Unable to find target with innerWindowId:6442450968"
+console.error: "Unable to find target with innerWindowId:6442450968"
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+JavaScript error: https://www.eracast.cc/upload_video, line 505: ReferenceError: started_at is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 505: ReferenceError: started_at is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 505: ReferenceError: started_at is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 505: ReferenceError: started_at is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 505: ReferenceError: started_at is not defined
+JavaScript error: https://www.eracast.cc/channels?success=You%20have%20successfully%20created%20a%20EraCast%20account, line 391: ReferenceError: __wm is not defined
+console.error: "Unable to find target with innerWindowId:6442450973"
+console.error: "Unable to find target with innerWindowId:6442450973"
+console.error: "Unable to find target with innerWindowId:6442450973"
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.error: "Unable to find target with innerWindowId:6442450982"
+console.error: "Unable to find target with innerWindowId:6442450982"
+console.error: "Unable to find target with innerWindowId:6442450982"
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+JavaScript error: https://www.eracast.cc/upload_video, line 519: ReferenceError: started_at is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 519: ReferenceError: started_at is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 519: ReferenceError: started_at is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 519: ReferenceError: started_at is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 519: ReferenceError: started_at is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 519: ReferenceError: started_at is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 519: ReferenceError: started_at is not defined
+console.error: "Unable to find target with innerWindowId:6442450987"
+console.error: "Unable to find target with innerWindowId:6442450987"
+console.error: "Unable to find target with innerWindowId:6442450987"
+console.error: "Unable to find target with innerWindowId:6442450987"
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://aesthetiful.com."
+console.error: "Unable to find target with innerWindowId:8589934593"
+JavaScript error: https://aesthetiful.com/s/js/app.js, line 13: TypeError: window.Finobe is undefined
+JavaScript error: https://aesthetiful.com/s/js/app.js, line 13: TypeError: $(...).tooltip is not a function
+JavaScript error: https://aesthetiful.com/s/js/app.js, line 13: TypeError: window.Finobe is undefined
+JavaScript error: https://aesthetiful.com/s/js/app.js, line 13: TypeError: $(...).tooltip is not a function
+JavaScript error: https://aesthetiful.com/s/js/app.js, line 13: TypeError: window.Finobe is undefined
+console.error: "Unable to find target with innerWindowId:8589934594"
+console.error: "Unable to find target with innerWindowId:8589934594"
+JavaScript error: https://aesthetiful.com/s/js/app.js, line 13: TypeError: $(...).tooltip is not a function
+console.error: "Unable to find target with innerWindowId:8589934595"
+console.error: "Unable to find target with innerWindowId:8589934595"
+console.error: "Unable to find target with innerWindowId:8589934596"
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1699262489286	Marionette	INFO	Stopped listening on port 59868
+Dynamically enable window occlusion 1
+[Parent 8448, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferDevTools listening on ws://127.0.0.1:60000/devtools/browser/9fe18ccd-2926-49db-ac6d-aa90eed64b9a
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+JavaScript error: https://www.eracast.cc/sign_up, line 127: TypeError: $(...).strength_meter is not a function
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.eracast.cc."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.eracast.cc."
+1699262494810	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://www.eracast.cc/channels?success=You%20have%20successfully%20created%20a%20EraCast%20account, line 391: ReferenceError: __wm is not defined
+1699262518030	addons.xpi	ERROR	System addon update list error SyntaxError: The URI is malformed.
+[Child 8376, MediaDecoderStateMachine #1] WARNING: 2723b5bf00 Could not set cubeb stream name.: file /builds/worker/checkouts/gecko/dom/media/AudioStream.cpp:321
+JavaScript error: resource://gre/actors/AudioPlaybackChild.sys.mjs, line 17: InvalidStateError: JSWindowActorChild.sendAsyncMessage: JSWindowActorChild cannot send at the moment
+1699262587693	Marionette	INFO	Stopped listening on port 60007
+Dynamically enable window occlusion 1
+1699262633206	geckodriver	INFO	Listening on 127.0.0.1:60060
+1699262635212	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60061" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilexav8db"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1699262635864	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1699262636046	Marionette	INFO	Listening on port 60068
+WebDriver BiDi listening on ws://127.0.0.1:60061
+Read port: 60068
+1699262636410	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60061/devtools/browser/10e9c552-34f9-459f-b46a-213d7d2a0925
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+JavaScript error: https://www.eracast.cc/sign_up, line 127: TypeError: $(...).strength_meter is not a function
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.eracast.cc."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.eracast.cc."
+JavaScript error: https://www.eracast.cc/channels?success=You%20have%20successfully%20created%20a%20EraCast%20account, line 391: ReferenceError: __wm is not defined
+1699262646385	Marionette	INFO	Stopped listening on port 60068
+Dynamically enable window occlusion 1
+1699262648983	geckodriver	INFO	Listening on 127.0.0.1:60107
+1699262650977	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60108" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileM8tv47"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1699262651891	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1699262652116	Marionette	INFO	Listening on port 60115
+WebDriver BiDi listening on ws://127.0.0.1:60108
+Read port: 60115
+Read port: 60115
+1699262653991	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60108/devtools/browser/6e3e45e7-4605-47d2-98c9-1165c9e2dd92
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+JavaScript error: https://www.eracast.cc/sign_up, line 127: TypeError: $(...).strength_meter is not a function
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.eracast.cc."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.eracast.cc."
+JavaScript error: https://www.eracast.cc/channels?success=You%20have%20successfully%20created%20a%20EraCast%20account, line 391: ReferenceError: __wm is not defined
+1699262666367	Marionette	INFO	Stopped listening on port 60115
+Dynamically enable window occlusion 1
+1699262671034	geckodriver	INFO	Listening on 127.0.0.1:60157
+1699262673029	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60158" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilenX675o"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1699262674027	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1699262674189	Marionette	INFO	Listening on port 60165
+WebDriver BiDi listening on ws://127.0.0.1:60158
+Read port: 60165
+1699262674505	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60158/devtools/browser/6b8381c8-17a2-4a26-b419-697c122f0844
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+JavaScript error: https://www.eracast.cc/sign_up, line 127: TypeError: $(...).strength_meter is not a function
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.eracast.cc."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.eracast.cc."
+JavaScript error: https://www.eracast.cc/channels?success=You%20have%20successfully%20created%20a%20EraCast%20account, line 391: ReferenceError: __wm is not defined
+1699262686315	Marionette	INFO	Stopped listening on port 60165
+Dynamically enable window occlusion 1
+1699262690085	geckodriver	INFO	Listening on 127.0.0.1:60206
+1699262692173	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60207" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile3mL43g"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1699262693689	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1699262694166	Marionette	INFO	Listening on port 60214
+WebDriver BiDi listening on ws://127.0.0.1:60207
+Read port: 60214
+1699262694474	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60207/devtools/browser/a71f4002-86ef-4c31-8c73-56dc45af76dc
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+JavaScript error: https://www.eracast.cc/sign_up, line 127: TypeError: $(...).strength_meter is not a function
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.eracast.cc."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.eracast.cc."
+1699262700048	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://www.eracast.cc/channels?success=You%20have%20successfully%20created%20a%20EraCast%20account, line 391: ReferenceError: __wm is not defined
+1699262706178	Marionette	INFO	Stopped listening on port 60214
+Dynamically enable window occlusion 1
+1699262709308	geckodriver	INFO	Listening on 127.0.0.1:60253
+1699262711293	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60254" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile4RMLqi"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1699262711908	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1699262712077	Marionette	INFO	Listening on port 60261
+WebDriver BiDi listening on ws://127.0.0.1:60254
+Read port: 60261
+1699262712461	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60254/devtools/browser/ccd9c31d-865e-460c-a10c-2f6a8005239c
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+JavaScript error: https://www.eracast.cc/sign_up, line 127: TypeError: $(...).strength_meter is not a function
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.eracast.cc."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.eracast.cc."
+JavaScript error: https://www.eracast.cc/channels?success=You%20have%20successfully%20created%20a%20EraCast%20account, line 391: ReferenceError: __wm is not defined
+1699262723832	Marionette	INFO	Stopped listening on port 60261
+Dynamically enable window occlusion 1
+[Parent 1260, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:793
+1699262726544	geckodriver	INFO	Listening on 127.0.0.1:60301
+1699262728538	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60302" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofiletVpj8U"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1699262730352	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1699262730536	Marionette	INFO	Listening on port 60309
+WebDriver BiDi listening on ws://127.0.0.1:60302
+Read port: 60309
+1699262730916	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60302/devtools/browser/2c9883c4-62df-45de-88e4-29409f8faee3
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+JavaScript error: https://www.eracast.cc/sign_up, line 127: TypeError: $(...).strength_meter is not a function
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.eracast.cc."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.eracast.cc."
+JavaScript error: https://www.eracast.cc/channels?success=You%20have%20successfully%20created%20a%20EraCast%20account, line 391: ReferenceError: __wm is not defined
+1699262740880	Marionette	INFO	Stopped listening on port 60309
+Dynamically enable window occlusion 1
+1699262751375	geckodriver	INFO	Listening on 127.0.0.1:60348
+1699262753371	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60349" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilev8KQvr"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1699262754013	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1699262754212	Marionette	INFO	Listening on port 60364
+WebDriver BiDi listening on ws://127.0.0.1:60349
+Read port: 60364
+1699262754637	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60349/devtools/browser/b75a24ff-727a-46ee-8c0a-803baf70a716
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+JavaScript error: https://www.eracast.cc/sign_up, line 127: TypeError: $(...).strength_meter is not a function
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.eracast.cc."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.eracast.cc."
+1699262759721	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://www.eracast.cc/channels?success=You%20have%20successfully%20created%20a%20EraCast%20account, line 391: ReferenceError: __wm is not defined
+1699262764609	Marionette	INFO	Stopped listening on port 60364
+Dynamically enable window occlusion 1
+1699262767515	geckodriver	INFO	Listening on 127.0.0.1:60405
+1699262769510	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60406" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileYVV1j5"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1699262770168	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1699262770334	Marionette	INFO	Listening on port 60414
+WebDriver BiDi listening on ws://127.0.0.1:60406
+Read port: 60414
+1699262770701	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60406/devtools/browser/6edc8f54-26fb-4d9d-a2d6-81396ee48b38
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+JavaScript error: https://www.eracast.cc/sign_up, line 127: TypeError: $(...).strength_meter is not a function
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.eracast.cc."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.eracast.cc."
+JavaScript error: https://www.eracast.cc/sign_up, line 134: TypeError: $(...).strength_meter is not a function
+1699262776877	Marionette	INFO	Stopped listening on port 60414
+Dynamically enable window occlusion 1
+[Parent 4640, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:793
+1699262779537	geckodriver	INFO	Listening on 127.0.0.1:60456
+1699262781527	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60457" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilehgWERw"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1699262782081	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1699262782247	Marionette	INFO	Listening on port 60464
+WebDriver BiDi listening on ws://127.0.0.1:60457
+Read port: 60464
+1699262782613	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60457/devtools/browser/72899804-11aa-46e0-80a4-e5c253f19cb5
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+JavaScript error: https://www.eracast.cc/sign_up, line 127: TypeError: $(...).strength_meter is not a function
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.eracast.cc."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.eracast.cc."
+JavaScript error: https://www.eracast.cc/sign_up, line 134: TypeError: $(...).strength_meter is not a function
+1699262788499	Marionette	INFO	Stopped listening on port 60464
+Dynamically enable window occlusion 1
+1699262791079	geckodriver	INFO	Listening on 127.0.0.1:60503
+1699262793074	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60504" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilevEUbrP"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1699262793652	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1699262793825	Marionette	INFO	Listening on port 60511
+WebDriver BiDi listening on ws://127.0.0.1:60504
+Read port: 60511
+1699262794165	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1699263569582	geckodriver	INFO	Listening on 127.0.0.1:60623
+1699263571578	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60624" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile152Kg0"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1699263572752	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1699263572919	Marionette	INFO	Listening on port 60631
+WebDriver BiDi listening on ws://127.0.0.1:60624
+Read port: 60631
+1699263573293	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60624/devtools/browser/b3ce4b08-38e7-4331-b1f3-232ba5f927b9
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+JavaScript error: https://www.eracast.cc/sign_up, line 127: TypeError: $(...).strength_meter is not a function
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.eracast.cc."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.eracast.cc."
+JavaScript error: https://www.eracast.cc/sign_up, line 134: TypeError: $(...).strength_meter is not a function
+1699263579943	Marionette	INFO	Stopped listening on port 60631
+Dynamically enable window occlusion 1
+1699263582519	geckodriver	INFO	Listening on 127.0.0.1:60672
+1699263584515	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60673" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileDfDGed"
+1699263588320	geckodriver	INFO	Listening on 127.0.0.1:60682
+1699263590316	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60683" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile7xUn5f"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1699263590862	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1699263591030	Marionette	INFO	Listening on port 60690
+WebDriver BiDi listening on ws://127.0.0.1:60683
+Read port: 60690
+1699263591420	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60683/devtools/browser/ce4aa301-80f8-46d9-b5f7-971bb4526232
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.eracast.cc."
+JavaScript error: https://s.ytimg.com/yt/jsbin/www-searchbox-vflsHyn9f.js, line 16: TypeError: c.initKeyEvent is not a function
+JavaScript error: https://s.ytimg.com/yt/jsbin/www-searchbox-vflsHyn9f.js, line 16: TypeError: c.initKeyEvent is not a function
+JavaScript error: https://s.ytimg.com/yt/jsbin/www-searchbox-vflsHyn9f.js, line 16: TypeError: c.initKeyEvent is not a function
+JavaScript error: https://s.ytimg.com/yt/jsbin/www-searchbox-vflsHyn9f.js, line 16: TypeError: c.initKeyEvent is not a function
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1699263618886	Marionette	INFO	Stopped listening on port 60690
+Dynamically enable window occlusion 1
+1699263620291	geckodriver	INFO	Listening on 127.0.0.1:60732
+1699263622289	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60733" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilelTNEnt"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1699263623279	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1699263623469	Marionette	INFO	Listening on port 60740
+WebDriver BiDi listening on ws://127.0.0.1:60733
+Read port: 60740
+1699263623860	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60733/devtools/browser/9d82093b-4c48-4c2e-ac49-bcf7de3da42b
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+JavaScript error: https://s.ytimg.com/yt/jsbin/www-searchbox-vflsHyn9f.js, line 16: TypeError: c.initKeyEvent is not a function
+JavaScript error: https://s.ytimg.com/yt/jsbin/www-searchbox-vflsHyn9f.js, line 16: TypeError: c.initKeyEvent is not a function
+JavaScript error: https://s.ytimg.com/yt/jsbin/www-searchbox-vflsHyn9f.js, line 16: TypeError: c.initKeyEvent is not a function
+JavaScript error: https://s.ytimg.com/yt/jsbin/www-searchbox-vflsHyn9f.js, line 16: TypeError: c.initKeyEvent is not a function
+1699263653323	addons.xpi	ERROR	System addon update list error SyntaxError: The URI is malformed.
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1699263725036	Marionette	INFO	Stopped listening on port 60740
+Dynamically enable window occlusion 1
+1699263732039	geckodriver	INFO	Listening on 127.0.0.1:60786
+1699263734040	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60787" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilegAoZWr"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1699263735314	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1699263735478	Marionette	INFO	Listening on port 60794
+WebDriver BiDi listening on ws://127.0.0.1:60787
+Read port: 60794
+1699263735871	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60787/devtools/browser/08f53d56-5317-47b0-912a-b5f3492d0e41
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.eracast.cc."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.eracast.cc."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.eracast.cc."
+JavaScript warning: https://www.eracast.cc/upload_video, line 1: unreachable code after return statement
+1699263765374	addons.xpi	ERROR	System addon update list error SyntaxError: The URI is malformed.
+1699263784361	Marionette	INFO	Stopped listening on port 60794
+Dynamically enable window occlusion 1
+[Parent 2108, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:793
+1699263792408	geckodriver	INFO	Listening on 127.0.0.1:60842
+1699263794409	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60843" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilekED9Ki"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1699263795672	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1699263795834	Marionette	INFO	Listening on port 60850
+WebDriver BiDi listening on ws://127.0.0.1:60843
+Read port: 60850
+1699263796187	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60843/devtools/browser/6b453658-c503-4bc1-9aa8-2d0e3b345b98
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.eracast.cc."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.eracast.cc."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.eracast.cc."
+JavaScript warning: https://www.eracast.cc/upload_video, line 1: unreachable code after return statement
+1699263825711	addons.xpi	ERROR	System addon update list error SyntaxError: The URI is malformed.
+JavaScript error: https://s.ytimg.com/yt/jsbin/www-searchbox-vflsHyn9f.js, line 16: TypeError: c.initKeyEvent is not a function
+JavaScript error: https://s.ytimg.com/yt/jsbin/www-searchbox-vflsHyn9f.js, line 16: TypeError: c.initKeyEvent is not a function
+JavaScript error: https://s.ytimg.com/yt/jsbin/www-searchbox-vflsHyn9f.js, line 16: TypeError: c.initKeyEvent is not a function
+JavaScript error: https://s.ytimg.com/yt/jsbin/www-searchbox-vflsHyn9f.js, line 16: TypeError: c.initKeyEvent is not a function
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1699263984379	Marionette	INFO	Stopped listening on port 60850
+Dynamically enable window occlusion 1
+[Parent 1828, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:793
+1699263988415	geckodriver	INFO	Listening on 127.0.0.1:60907
+1699263990397	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60908" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileKAmKIy"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1699263991884	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1699263992093	Marionette	INFO	Listening on port 60915
+WebDriver BiDi listening on ws://127.0.0.1:60908
+Read port: 60915
+1699263992440	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60908/devtools/browser/3ac47d69-8620-4aa4-932c-e35c47f1dabd
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.eracast.cc."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.eracast.cc."
+1699264021914	addons.xpi	ERROR	System addon update list error SyntaxError: The URI is malformed.
+JavaScript error: https://s.ytimg.com/yt/jsbin/www-searchbox-vflsHyn9f.js, line 16: TypeError: c.initKeyEvent is not a function
+JavaScript error: https://s.ytimg.com/yt/jsbin/www-searchbox-vflsHyn9f.js, line 16: TypeError: c.initKeyEvent is not a function
+JavaScript error: https://s.ytimg.com/yt/jsbin/www-searchbox-vflsHyn9f.js, line 16: TypeError: c.initKeyEvent is not a function
+JavaScript error: https://s.ytimg.com/yt/jsbin/www-searchbox-vflsHyn9f.js, line 16: TypeError: c.initKeyEvent is not a function
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1699264261079	Marionette	INFO	Stopped listening on port 60915
+Dynamically enable window occlusion 1
+1699264264472	geckodriver	INFO	Listening on 127.0.0.1:60983
+1699264266447	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60984" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilePHuGTR"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1699264267997	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1699264268175	Marionette	INFO	Listening on port 60991
+WebDriver BiDi listening on ws://127.0.0.1:60984
+Read port: 60991
+1699264268586	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60984/devtools/browser/499e3a08-2cc2-43c2-872c-ac37a98304ee
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.eracast.cc."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.eracast.cc."
+JavaScript error: https://www.eracast.cc/upload_video, line 519: ReferenceError: started_at is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 519: ReferenceError: started_at is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 519: ReferenceError: started_at is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 519: ReferenceError: started_at is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 519: ReferenceError: started_at is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 519: ReferenceError: started_at is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 519: ReferenceError: started_at is not defined
+1699264298028	addons.xpi	ERROR	System addon update list error SyntaxError: The URI is malformed.
+1699264364226	geckodriver	INFO	Listening on 127.0.0.1:61081
+1699264366182	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61082" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileFhUyaM"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1699264367577	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1699264367840	Marionette	INFO	Listening on port 61093
+WebDriver BiDi listening on ws://127.0.0.1:61082
+Read port: 61093
+1699264368228	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61082/devtools/browser/707fae5d-fa88-469f-8e11-cc84910d007b
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.eracast.cc."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.eracast.cc."
+JavaScript error: https://www.eracast.cc/upload_video, line 519: ReferenceError: started_at is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 519: ReferenceError: started_at is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 519: ReferenceError: started_at is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 519: ReferenceError: started_at is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 519: ReferenceError: started_at is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 519: ReferenceError: started_at is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 519: ReferenceError: started_at is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 519: ReferenceError: started_at is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 519: ReferenceError: started_at is not defined
+1699264397552	Marionette	INFO	Stopped listening on port 61093
+Dynamically enable window occlusion 1
+[Parent 3124, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:793
+console.error: "DEPRECATION WARNING: Calling FileUtils.getDir(..., ..., true) causes main thread I/O and should be avoided especially during startup/shutdown\nYou may find more details about this deprecation at: https://bugzilla.mozilla.org/show_bug.cgi?id=921157\nresource://gre/modules/FileUtils.sys.mjs 62 FileUtils_getDir\nresource://gre/modules/UpdateService.sys.mjs 1057 getUpdateDirCreate\nresource://gre/modules/UpdateService.sys.mjs 1096 getUpdateFile\nresource://gre/modules/UpdateService.sys.mjs 4431 UM__loadXMLFileIntoArray\nresource://gre/modules/UpdateService.sys.mjs 4265 UpdateManager\nresource://gre/modules/XPCOMUtils.sys.mjs 137 defineLazyServiceGetter/<\nresource://gre/modules/UpdateService.sys.mjs 3365 get _pingSuffix\nresource://gre/modules/UpdateService.sys.mjs 3408 AUS__checkForBackgroundUpdates\nresource://gre/modules/UpdateService.sys.mjs 3353 AUS_notify\nresource://gre/modules/UpdateTimerManager.sys.mjs 199 TM_notify/</<\n"
+console.error: "DEPRECATION WARNING: Calling FileUtils.getDir(..., ..., true) causes main thread I/O and should be avoided especially during startup/shutdown\nYou may find more details about this deprecation at: https://bugzilla.mozilla.org/show_bug.cgi?id=921157\nresource://gre/modules/FileUtils.sys.mjs 62 FileUtils_getDir\nresource://gre/modules/UpdateService.sys.mjs 1057 getUpdateDirCreate\nresource://gre/modules/UpdateService.sys.mjs 1096 getUpdateFile\nresource://gre/modules/UpdateService.sys.mjs 774 getCanApplyUpdates\nresource://gre/modules/UpdateService.sys.mjs 3416 AUS__checkForBackgroundUpdates\nresource://gre/modules/UpdateService.sys.mjs 3353 AUS_notify\nresource://gre/modules/UpdateTimerManager.sys.mjs 199 TM_notify/</<\n"
+1699264397704	addons.xpi	ERROR	System addon update list error Error: Failed downloading XML, status: 0, channelStatus: 2147500036, errorCode: 2, reason: error
+console.error: (new Error("Polling for changes failed: NetworkError: Network request failed.", "resource://services-settings/remote-settings.sys.mjs", 324))
+console.error: Region.sys.mjs: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", "resource://gre/modules/Region.sys.mjs", 738))
+console.error: Region.sys.mjs: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.sys.mjs", 411))
+[Parent 3124, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:793
+1699264433172	geckodriver	INFO	Listening on 127.0.0.1:61143
+1699264435171	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61144" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileECPdja"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1699264436421	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1699264436753	Marionette	INFO	Listening on port 61151
+WebDriver BiDi listening on ws://127.0.0.1:61144
+Read port: 61151
+1699264437075	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61144/devtools/browser/03899747-5503-4e62-bc97-aa2daedeebee
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+JavaScript error: https://www.eracast.cc/sign_up, line 127: TypeError: $(...).strength_meter is not a function
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.eracast.cc."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.eracast.cc."
+JavaScript error: https://www.eracast.cc/channels?success=You%20have%20successfully%20created%20a%20EraCast%20account, line 391: ReferenceError: __wm is not defined
+1699264459547	geckodriver	INFO	Listening on 127.0.0.1:61190
+1699264461547	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61191" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofiledR6vj8"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1699264462218	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1699264462386	Marionette	INFO	Listening on port 61198
+WebDriver BiDi listening on ws://127.0.0.1:61191
+Read port: 61198
+1699264462797	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61191/devtools/browser/14108509-7d56-4b5f-accc-223550beb0a4
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+JavaScript error: https://www.eracast.cc/sign_up, line 127: TypeError: $(...).strength_meter is not a function
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.eracast.cc."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.eracast.cc."
+JavaScript error: https://www.eracast.cc/channels?success=You%20have%20successfully%20created%20a%20EraCast%20account, line 391: ReferenceError: __wm is not defined
+1699264473950	Marionette	INFO	Stopped listening on port 61198
+Dynamically enable window occlusion 1
+1699264497074	geckodriver	INFO	Listening on 127.0.0.1:61238
+1699264499071	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61239" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile2rKiIV"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1699264500224	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1699264500388	Marionette	INFO	Listening on port 61246
+WebDriver BiDi listening on ws://127.0.0.1:61239
+Read port: 61246
+1699264500759	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61239/devtools/browser/82bdfbc1-0731-4508-a733-f6b234383194
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.eracast.cc."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.eracast.cc."
+JavaScript error: https://www.eracast.cc/upload_video, line 491: ReferenceError: started_at is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 491: ReferenceError: started_at is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 491: ReferenceError: started_at is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 491: ReferenceError: started_at is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 491: ReferenceError: started_at is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 491: ReferenceError: started_at is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 491: ReferenceError: started_at is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 491: ReferenceError: started_at is not defined
+1699264530257	addons.xpi	ERROR	System addon update list error SyntaxError: The URI is malformed.
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.eracast.cc."
+JavaScript error: https://s.ytimg.com/yt/jsbin/www-searchbox-vflsHyn9f.js, line 16: TypeError: c.initKeyEvent is not a function
+JavaScript error: https://s.ytimg.com/yt/jsbin/www-searchbox-vflsHyn9f.js, line 16: TypeError: c.initKeyEvent is not a function
+JavaScript error: https://s.ytimg.com/yt/jsbin/www-searchbox-vflsHyn9f.js, line 16: TypeError: c.initKeyEvent is not a function
+JavaScript error: https://s.ytimg.com/yt/jsbin/www-searchbox-vflsHyn9f.js, line 16: TypeError: c.initKeyEvent is not a function
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: https://s.ytimg.com/yt/jsbin/www-searchbox-vflsHyn9f.js, line 16: TypeError: c.initKeyEvent is not a function
+JavaScript error: https://s.ytimg.com/yt/jsbin/www-searchbox-vflsHyn9f.js, line 16: TypeError: c.initKeyEvent is not a function
+JavaScript error: https://s.ytimg.com/yt/jsbin/www-searchbox-vflsHyn9f.js, line 16: TypeError: c.initKeyEvent is not a function
+JavaScript error: https://s.ytimg.com/yt/jsbin/www-searchbox-vflsHyn9f.js, line 16: TypeError: c.initKeyEvent is not a function
+1699264950104	Marionette	INFO	Stopped listening on port 61246
+Dynamically enable window occlusion 1
+[Parent 9624, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:793
+NI~1\\AppData\\Local\\Temp\\rust_mozprofile3Uv3oX"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1699264898148	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1699264898389	Marionette	INFO	Listening on port 61349
+Read port: 61349
+WebDriver BiDi listening on ws://127.0.0.1:61342
+1699264899029	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61342/devtools/browser/4ce43455-1fc0-4593-924b-dd0e3ba1c8a6
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+JavaScript error: https://www.eracast.cc/sign_up, line 127: TypeError: $(...).strength_meter is not a function
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.eracast.cc."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.eracast.cc."
+JavaScript error: https://www.eracast.cc/channels?success=You%20have%20successfully%20created%20a%20EraCast%20account, line 391: ReferenceError: __wm is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 491: ReferenceError: started_at is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 491: ReferenceError: started_at is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 491: ReferenceError: started_at is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 491: ReferenceError: started_at is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 491: ReferenceError: started_at is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 491: ReferenceError: started_at is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 491: ReferenceError: started_at is not defined
+1699264928239	addons.xpi	ERROR	System addon update list error SyntaxError: The URI is malformed.
+1699264929543	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:221:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:431:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:180:31
+1699264929747	Marionette	INFO	Stopped listening on port 61349
+Dynamically enable window occlusion 1
+console.warn: services.settings: main/sites-classification sync interrupted by shutdown
+console.warn: services.settings: main/anti-tracking-url-decoration sync interrupted by shutdown
+console.error: (new AbortError("IndexedDB: main/cfr-srg getLastModified() IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort.", "resource://services-settings/IDBHelpers.jsm", 18))
+1699264954519	geckodriver	INFO	Listening on 127.0.0.1:61401
+1699264956537	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61402" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile5np9pB"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1699264958065	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1699264958284	Marionette	INFO	Listening on port 61409
+WebDriver BiDi listening on ws://127.0.0.1:61402
+Read port: 61409
+1699264958674	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61402/devtools/browser/90dbbc67-e7ff-4f3b-adeb-8f62d68fa9cd
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+JavaScript error: https://www.eracast.cc/sign_up, line 127: TypeError: $(...).strength_meter is not a function
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.eracast.cc."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.eracast.cc."
+JavaScript error: https://www.eracast.cc/channels?success=You%20have%20successfully%20created%20a%20EraCast%20account, line 391: ReferenceError: __wm is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 491: ReferenceError: started_at is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 491: ReferenceError: started_at is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 491: ReferenceError: started_at is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 491: ReferenceError: started_at is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 491: ReferenceError: started_at is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 491: ReferenceError: started_at is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 491: ReferenceError: started_at is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 491: ReferenceError: started_at is not defined
+1699264988112	addons.xpi	ERROR	System addon update list error SyntaxError: The URI is malformed.
+1699264997116	Marionette	INFO	Stopped listening on port 61409
+Dynamically enable window occlusion 1
+1699265041248	geckodriver	INFO	Listening on 127.0.0.1:61465
+1699265043253	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61466" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofiledTuRu7"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1699265044517	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1699265044706	Marionette	INFO	Listening on port 61473
+WebDriver BiDi listening on ws://127.0.0.1:61466
+Read port: 61473
+1699265045050	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61466/devtools/browser/6d16d84f-ea1c-4dbb-a1f8-b3cc5138c2c6
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+JavaScript error: https://www.eracast.cc/sign_up, line 127: TypeError: $(...).strength_meter is not a function
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.eracast.cc."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.eracast.cc."
+JavaScript error: https://www.eracast.cc/channels?success=You%20have%20successfully%20created%20a%20EraCast%20account, line 391: ReferenceError: __wm is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 491: ReferenceError: started_at is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 491: ReferenceError: started_at is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 491: ReferenceError: started_at is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 491: ReferenceError: started_at is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 491: ReferenceError: started_at is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 491: ReferenceError: started_at is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 491: ReferenceError: started_at is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 491: ReferenceError: started_at is not defined
+1699265074561	addons.xpi	ERROR	System addon update list error SyntaxError: The URI is malformed.
+1699265134424	Marionette	INFO	Stopped listening on port 61473
+Dynamically enable window occlusion 1
+1699265273683	geckodriver	INFO	Listening on 127.0.0.1:61622
+1699265275684	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61623" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile8a2zXc"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1699265276717	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1699265276954	Marionette	INFO	Listening on port 61631
+WebDriver BiDi listening on ws://127.0.0.1:61623
+Read port: 61631
+1699265277309	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61623/devtools/browser/ee843638-6481-43b2-8502-9c1a908e5829
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+JavaScript error: https://www.eracast.cc/sign_up, line 127: TypeError: $(...).strength_meter is not a function
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.eracast.cc."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.eracast.cc."
+JavaScript error: https://www.eracast.cc/channels?success=You%20have%20successfully%20created%20a%20EraCast%20account, line 391: ReferenceError: __wm is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 491: ReferenceError: started_at is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 491: ReferenceError: started_at is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 491: ReferenceError: started_at is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 491: ReferenceError: started_at is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 491: ReferenceError: started_at is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 491: ReferenceError: started_at is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 491: ReferenceError: started_at is not defined
+1699265306764	addons.xpi	ERROR	System addon update list error SyntaxError: The URI is malformed.
+JavaScript error: https://s.ytimg.com/yt/jsbin/www-searchbox-vflsHyn9f.js, line 16: TypeError: c.initKeyEvent is not a function
+JavaScript error: https://s.ytimg.com/yt/jsbin/www-searchbox-vflsHyn9f.js, line 16: TypeError: c.initKeyEvent is not a function
+JavaScript error: https://s.ytimg.com/yt/jsbin/www-searchbox-vflsHyn9f.js, line 16: TypeError: c.initKeyEvent is not a function
+JavaScript error: https://s.ytimg.com/yt/jsbin/www-searchbox-vflsHyn9f.js, line 16: TypeError: c.initKeyEvent is not a function
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: https://s.ytimg.com/yt/jsbin/www-searchbox-vflsHyn9f.js, line 16: TypeError: c.initKeyEvent is not a function
+JavaScript error: https://s.ytimg.com/yt/jsbin/www-searchbox-vflsHyn9f.js, line 16: TypeError: c.initKeyEvent is not a function
+JavaScript error: https://s.ytimg.com/yt/jsbin/www-searchbox-vflsHyn9f.js, line 16: TypeError: c.initKeyEvent is not a function
+JavaScript error: https://s.ytimg.com/yt/jsbin/www-searchbox-vflsHyn9f.js, line 16: TypeError: c.initKeyEvent is not a function
+1699265357951	Marionette	INFO	Stopped listening on port 61631
+Dynamically enable window occlusion 1
+[Parent 3536, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:793
+[Parent 3536, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:793
+1699265550376	geckodriver	INFO	Listening on 127.0.0.1:61722
+1699265552371	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61723" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileNMsQjU"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1699265553690	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1699265553861	Marionette	INFO	Listening on port 61730
+Read port: 61730
+WebDriver BiDi listening on ws://127.0.0.1:61723
+1699265554051	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61723/devtools/browser/86a1a291-8bde-430e-8b80-28170b30b7be
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+JavaScript error: https://www.eracast.cc/sign_up, line 127: TypeError: $(...).strength_meter is not a function
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.eracast.cc."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.eracast.cc."
+JavaScript error: https://www.eracast.cc/channels?success=You%20have%20successfully%20created%20a%20EraCast%20account, line 391: ReferenceError: __wm is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 491: ReferenceError: started_at is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 491: ReferenceError: started_at is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 491: ReferenceError: started_at is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 491: ReferenceError: started_at is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 491: ReferenceError: started_at is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 491: ReferenceError: started_at is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 491: ReferenceError: started_at is not defined
+1699265583961	addons.xpi	ERROR	System addon update list error SyntaxError: The URI is malformed.
+1699265634793	Marionette	INFO	Stopped listening on port 61730
+Dynamically enable window occlusion 1
+1699265659560	geckodriver	INFO	Listening on 127.0.0.1:61799
+1699265661563	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61800" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileAQKYo8"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1699265662987	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1699265663164	Marionette	INFO	Listening on port 61807
+WebDriver BiDi listening on ws://127.0.0.1:61800
+Read port: 61807
+1699265663521	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61800/devtools/browser/e3b47293-6d8e-49cc-a437-9c48d0baee4e
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+JavaScript error: https://www.eracast.cc/sign_up, line 127: TypeError: $(...).strength_meter is not a function
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.eracast.cc."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.eracast.cc."
+JavaScript error: https://www.eracast.cc/sign_up, line 134: TypeError: $(...).strength_meter is not a function
+1699265693022	addons.xpi	ERROR	System addon update list error SyntaxError: The URI is malformed.
+1699265729617	Marionette	INFO	Stopped listening on port 61807
+Dynamically enable window occlusion 1
+1699265741793	geckodriver	INFO	Listening on 127.0.0.1:61882
+1699265743789	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61883" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileVhLSeX"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1699265744475	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1699265744696	Marionette	INFO	Listening on port 61898
+Read port: 61898
+WebDriver BiDi listening on ws://127.0.0.1:61883
+1699265744823	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61883/devtools/browser/3f9fcc10-1159-4e37-a222-71df475b5685
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+JavaScript error: https://www.eracast.cc/sign_up, line 127: TypeError: $(...).strength_meter is not a function
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.eracast.cc."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.eracast.cc."
+JavaScript error: https://www.eracast.cc/channels?success=You%20have%20successfully%20created%20a%20EraCast%20account, line 391: ReferenceError: __wm is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 491: ReferenceError: started_at is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 491: ReferenceError: started_at is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 491: ReferenceError: started_at is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 491: ReferenceError: started_at is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 491: ReferenceError: started_at is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 491: ReferenceError: started_at is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 491: ReferenceError: started_at is not defined
+1699265774509	addons.xpi	ERROR	System addon update list error SyntaxError: The URI is malformed.
+1699265824087	Marionette	INFO	Stopped listening on port 61898
+Dynamically enable window occlusion 1
+1699265838617	geckodriver	INFO	Listening on 127.0.0.1:61957
+1699265840621	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61958" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileakavcS"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1699265841986	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1699265842169	Marionette	INFO	Listening on port 61965
+WebDriver BiDi listening on ws://127.0.0.1:61958
+Read port: 61965
+1699265842579	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61958/devtools/browser/0c757e2f-41ea-4786-b804-59dde60ef1f4
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+JavaScript error: https://www.eracast.cc/sign_up, line 127: TypeError: $(...).strength_meter is not a function
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.eracast.cc."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.eracast.cc."
+JavaScript error: https://www.eracast.cc/channels?success=You%20have%20successfully%20created%20a%20EraCast%20account, line 391: ReferenceError: __wm is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 491: ReferenceError: started_at is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 491: ReferenceError: started_at is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 491: ReferenceError: started_at is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 491: ReferenceError: started_at is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 491: ReferenceError: started_at is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 491: ReferenceError: started_at is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 491: ReferenceError: started_at is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 491: ReferenceError: started_at is not defined
+1699265872019	addons.xpi	ERROR	System addon update list error SyntaxError: The URI is malformed.
+1699265919920	Marionette	INFO	Stopped listening on port 61965
+Dynamically enable window occlusion 1
+1699265945670	geckodriver	INFO	Listening on 127.0.0.1:62046
+1699265947686	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62047" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileT8mhKi"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1699265949342	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1699265949803	Marionette	INFO	Listening on port 62059
+Read port: 62059
+WebDriver BiDi listening on ws://127.0.0.1:62047
+1699265950084	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62047/devtools/browser/7205898d-4cea-4f47-924e-915a2c45df22
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+JavaScript error: https://www.eracast.cc/sign_up, line 127: TypeError: $(...).strength_meter is not a function
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.eracast.cc."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.eracast.cc."
+JavaScript error: https://www.eracast.cc/channels?success=You%20have%20successfully%20created%20a%20EraCast%20account, line 391: ReferenceError: __wm is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 491: ReferenceError: started_at is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 491: ReferenceError: started_at is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 491: ReferenceError: started_at is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 491: ReferenceError: started_at is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 491: ReferenceError: started_at is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 491: ReferenceError: started_at is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 491: ReferenceError: started_at is not defined
+1699265979388	addons.xpi	ERROR	System addon update list error SyntaxError: The URI is malformed.
+1699266031125	Marionette	INFO	Stopped listening on port 62059
+Dynamically enable window occlusion 1
+1699266040627	geckodriver	INFO	Listening on 127.0.0.1:62121
+1699266042625	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62122" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilejqypTo"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1699266044054	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1699266044243	Marionette	INFO	Listening on port 62129
+WebDriver BiDi listening on ws://127.0.0.1:62122
+Read port: 62129
+1699266044699	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62122/devtools/browser/caf9e688-d839-480a-8f43-6a046f9ae914
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+JavaScript error: https://www.eracast.cc/sign_up, line 127: TypeError: $(...).strength_meter is not a function
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.eracast.cc."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.eracast.cc."
+JavaScript error: https://www.eracast.cc/channels?success=You%20have%20successfully%20created%20a%20EraCast%20account, line 391: ReferenceError: __wm is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 491: ReferenceError: started_at is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 491: ReferenceError: started_at is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 491: ReferenceError: started_at is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 491: ReferenceError: started_at is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 491: ReferenceError: started_at is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 491: ReferenceError: started_at is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 491: ReferenceError: started_at is not defined
+1699266074098	addons.xpi	ERROR	System addon update list error SyntaxError: The URI is malformed.
+1699266104044	Marionette	INFO	Stopped listening on port 62129
+Dynamically enable window occlusion 1
+1699266133529	geckodriver	INFO	Listening on 127.0.0.1:62199
+1699266135533	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62200" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilermEV4H"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1699266136760	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1699266136959	Marionette	INFO	Listening on port 62219
+WebDriver BiDi listening on ws://127.0.0.1:62200
+Read port: 62219
+1699266137353	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62200/devtools/browser/473f8437-d268-41c5-a2c1-734e2fa37873
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+JavaScript error: https://www.eracast.cc/sign_up, line 127: TypeError: $(...).strength_meter is not a function
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.eracast.cc."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.eracast.cc."
+JavaScript error: https://www.eracast.cc/channels?success=You%20have%20successfully%20created%20a%20EraCast%20account, line 391: ReferenceError: __wm is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 491: ReferenceError: started_at is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 491: ReferenceError: started_at is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 491: ReferenceError: started_at is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 491: ReferenceError: started_at is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 491: ReferenceError: started_at is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 491: ReferenceError: started_at is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 491: ReferenceError: started_at is not defined
+1699266166789	addons.xpi	ERROR	System addon update list error SyntaxError: The URI is malformed.
+1699266197735	Marionette	INFO	Stopped listening on port 62219
+Dynamically enable window occlusion 1
+[Parent 600, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:599
+[Parent 600, IPDL Background] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:599
+1699266226142	geckodriver	INFO	Listening on 127.0.0.1:62310
+1699266228145	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62311" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileTCNy3L"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1699266229507	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1699266229718	Marionette	INFO	Listening on port 62320
+WebDriver BiDi listening on ws://127.0.0.1:62311
+Read port: 62320
+1699266230051	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62311/devtools/browser/1699266235054	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "JavaScript error: https://www.eracast.cc/sign_up, line 127: TypeError: $(...).strength_meter is not a function
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.eracast.cc."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.eracast.cc."
+JavaScript error: https://www.eracast.cc/channels?success=You%20have%20successfully%20created%20a%20EraCast%20account, line 391: ReferenceError: __wm is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 491: ReferenceError: started_at is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 491: ReferenceError: started_at is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 491: ReferenceError: started_at is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 491: ReferenceError: started_at is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 491: ReferenceError: started_at is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 491: ReferenceError: started_at is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 491: ReferenceError: started_at is not defined
+1699266259559	addons.xpi	ERROR	System addon update list error SyntaxError: The URI is malformed.
+1699266291241	Marionette	INFO	Stopped listening on port 62320
+Dynamically enable window occlusion 1
+[Parent 7128, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:793
+arted_at is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 491: ReferenceError: started_at is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 491: ReferenceError: started_at is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 491: ReferenceError: started_at is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 491: ReferenceError: started_at is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 491: ReferenceError: started_at is not defined
+1699266266225	addons.xpi	ERROR	System addon update list error SyntaxError: The URI is malformed.
+1699266297853	Marionette	INFO	Stopped listening on port 62355
+Dynamically enable window occlusion 1
+1699266327132	geckodriver	INFO	Listening on 127.0.0.1:62476
+1699266329127	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62478" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile9bIY4h"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1699266330483	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1699266330804	Marionette	INFO	Listening on port 62492
+WebDriver BiDi listening on ws://127.0.0.1:62478
+Read port: 62492
+1699266331224	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62479/devtools/browser/2132a7a2-69ea-4202-91c3-07df396830dc
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+JavaScript error: https://www.eracast.cc/sign_up, line 127: TypeError: $(...).strength_meter is not a function
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.eracast.cc."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.eracast.cc."
+JavaScript error: https://www.eracast.cc/channels?success=You%20have%20successfully%20created%20a%20EraCast%20account, line 391: ReferenceError: __wm is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 491: ReferenceError: started_at is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 491: ReferenceError: started_at is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 491: ReferenceError: started_at is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 491: ReferenceError: started_at is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 491: ReferenceError: started_at is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 491: ReferenceError: started_at is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 491: ReferenceError: started_at is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 491: ReferenceError: started_at is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 491: ReferenceError: started_at is not defined
+1699266360654	a1699266360659	addons.xpi	ERROR	System addon update list error SyntaxError: The URI 1699266392145	Marionette	INFO	Stopped listening on port 62492
+Dynamically enable window occlusion 1
+[Parent 3656, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:793
+1699266434688	geckodriver	INFO	Listening on 127.0.0.1:62640
+1699266436691	mozrunner::runner	INFO	Running command: "C:\\P1699266436982	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62644" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Usconsole.warn: services.settings: Ignoring preference overridconsole.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by1699266438209	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1699266438656	Marionette	INFO	Listening on port 62657
+WebDr1699266438708	Marionette	INFO	Listening on poRead port:WebDriv1699266439127	RemoteAgent	WARN	TLS certificate errors will b1699266439195	RemoteAgent	WADevTools listening on ws://127.0.0.1:62641/devtools/browser/687549a8-d0c9-4d79-8c5b-3d9e93b519db
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+JavaScript error: https://www.eracast.cc/sign_up, line 127: TypeError: $(...).strength_meter is not a function
+console.warn: LoginRecipes: "Falling back to a synchronous mJavaScript error: https://s.ytimg.com/yt/jsbin/www-searchbox-vflsHyn9f.js, line 16: TypeError: c.initKeyEvent is not a function
+JavaScrJavaScript error: https://www.eracast.cc/channels?success=You%20have%20successfully%20created%20a%20EraCast%20account, line 391: ReferenceError: __wm is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 491: ReferenceError: started_at is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 491: ReferenceError: started_at is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 491: ReferenceError: started_at is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 491: ReferenceError: started_at is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 491: ReferenceError: started_at is not defined
+JavaScript erroJavaScript error: https://www.eracast.cc/upload_video, line 491: ReferenceError: started_at is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 491: ReferenceError: started_at is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 491: ReferenceError: started_at i1699266468279	addons.xpi	ERROR	System addon update list error SyntaxError: The URI is malformed.
+1699266500921	Marionette	INFO	Stopped listening on port 62657
+Dynamically enable window occlusion 1
+or: started_at is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 491: ReferenceError: started_at is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 491: ReferenceError: started_at is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 491: ReferenceError: started_at is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 491: ReferenceError: started_at is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 491: ReferenceError: started_at is not defined
+1699266468279	addons.xpi	ERROR	System addon update list error SyntaxError: The URI is malformed.
+JavaScript error: https://www.eracast.cc/upload_video, line 491: ReferenceError: started_at is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 491: ReferenceError: started_at is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 491: ReferenceError: started_at is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 491: ReferenceError: started_at is not defined
+1699266501330	Marionette	INFO	Stopped listening on port 62656
+Dynamically enable window occlusion 1
+1699266559221	geckodriver	INFO	Listening on 127.0.0.1:62799
+1699266561214	mozrunner::runner	INFO	Running command: "C:\\P1699266561586	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62803" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Usconsole.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1699266562665	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1699266563073	Marionette	INFO	Listening on port 62818
+WebDr1699266563106	Marionette	INFO	Listening on poRead port: 62818
+1699266563665	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62800/devtools/browser/DevTools listening on ws://127.0.0.1:6JavaScript error: https://www.eracast.cc/sign_up, line 127: JavaScript error: https://www.eracast.cc/sign_up, liconsole.warn: LoginRecipes: "Falling back to a synchronous mconsole.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.eracast.cc."
+console.warn: LoginRecipes: "Falling bJavaScript error: https://www.eracast.cc/channels?success=YoJavaScript error: https://www.eracast.cc/channels?success=You%20have%20successfully%20created%20a%20EraCasJavaScript error: https://www.eracast.cc/upload_video, line 491: ReferenceError: started_at is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 491: ReferenceError: started_at is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 491: ReferenceError: started_at is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 491: ReferenceError: started_at is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 491: ReferenceError: started_at is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 491: ReferenceError: started_at is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 491: ReferenceError: started_at is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 491: ReferenceError: started_at is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 1699266592724	addons.xpi	ERROR	System addon update list error SyntaxError: The URI is malformed.
+1699266624599	Marionette	INFO	Stopped listening on port 62817
+Dynamically enable window occlusion 1
+oad_video, line 491: ReferenceError: started_at is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 491: ReferenceError: started_at is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 491: ReferenceError: started_at is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 491: ReferenceError: started_at is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 491: ReferenceError: started_at is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 491: ReferenceError: started_at is not defined
+1699266592722	addons.xpi	ERROR	System addon update list error SyntaxError: The URI is malformed.
+1699266625307	Marionette	INFO	Stopped listening on port 62818
+Dynamically enable window occlusion 1
+1699266714498	geckodriver	INFO	Listening on 127.0.0.1:62956
+1699266716502	mozrunner::runner	INFO	Running command: "C:\\P1699266717505	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62963" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Usconsole.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1699266718206	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1699266718959	Marionette	INFO	Listening on port 62982
+WebDriver BiDi listening on ws://127.0.0.1:62957
+Read port: 62982
+1699266720043	RemoteAgent	WARN	TLS certificate errors will b1699266720044	RemoteAgent	WADevTools listening on ws://127.0.0.1:62957/devtools/browser/DevTools listening on ws://127.0.0.1:6console.error: (new TypeError("linkMap is undefined", "resouconsole.error: (new TypeError("linkMap is undefiJavaScript error: https://www.eracast.cc/sign_up, line 127: JavaScript error: https://www.eracast.cc/sign_up, liconsole.warn: LoginRecipes: "Falling back to a synchronous mconsole.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.eracast.cc."
+console.warn: LoginRecipes: "Falling bJavaScript error: https://www.eracast.cc/channels?success=YoJavaScript error: https://www.eracast.cc/channels?success=You%20have%20successfully%20created%20a%20EraCas1699266748267	addons.xpi	ERROR	System addon update list erro1699266748353	addons.xpi	ERROR	System JavaScript error: https://www.eracast.cc/upload_video, line 491: ReferenceError: started_at is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 491: ReferenceError: started_at is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 491: ReferenceError: started_at is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 491: ReferenceError: started_at is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 491: ReferenceError: started_at is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 491: ReferenceError: started_at is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 491: ReferenceError: started_at is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 491: ReferenceError: started_at is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 1699266785061	Marionette	INFO	Stopped listening on port 62981
+Dynamically enable window occlusion 1
+ line 491: ReferenceError: started_at is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 491: ReferenceError: started_at is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 491: ReferenceError: started_at is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 491: ReferenceError: started_at is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 491: ReferenceError: started_at is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 491: ReferenceError: started_at is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 491: ReferenceError: started_at is not defined
+1699266785526	Marionette	INFO	Stopped listening on port 62982
+Dynamically enable window occlusion 1
+1699266821978	geckodriver	INFO	Listening on 127.0.0.1:63111
+1699266824025	mozrunner::runner	INFO	Running command: "C:\\P1699266824800	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63116" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Usconsole.warn: services.settings: Ignoring preference overridconsole.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by1699266825862	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1699266826281	Marionette	INFO	Listening on port 63133
+WebDriver BiDi listening on ws://127.0.0.1:63112
+Read port: 63133
+1699266826900	RemoteAgent	WARN	TLS certificate errors will b1699266826956	RemoteAgent	WADevTools listening on ws://127.0.0.1:63112/devtools/browser/DevTools listening on ws://127.0.0.1:6console.error: (new TypeError("linkMap is undefined", "resouJavaScript error: https://www.eracast.cc/sign_upJavaScript error: https://www.eracast.cc/sign_up, line 127: Typeconsole.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.eracast.cc."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.eracast.cc."
+JavaScript error: https://www.eracast.cc/channelJavaScript error: https://www.eracast.cc/channels?success=You%20have%20successfully%20created%20a%20EraCast%20account,1699266856012	addons.xpi	ERROR	System addon update list error SyntaxError: The URI is malformed.
+JavaScript error: https://www.eracast.cc/upload_video, line 491: ReferenceError: started_at is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 491: ReferenceError: started_at is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 491: ReferenceError: started_at is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 491: ReferenceError: started_at is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 491: ReferenceError: started_at is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 491: ReferenceError: started_at is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 491: ReferenceError: started_at is not defined
+JavaScript error: https://www.eracast.cc/upload_1699266890567	Marionette	INFO	Stopped listening on port 63133
+Dynamically enable window occlusion 1
+pload_video, line 491: ReferenceError: started_at is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 491: ReferenceError: started_at is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 491: ReferenceError: started_at is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 491: ReferenceError: started_at is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 491: ReferenceError: started_at is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 491: ReferenceError: started_at is not defined
+1699266890854	Marionette	INFO	Stopped listening on port 63134
+Dynamically enable window occlusion 1
+[Parent 8156, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:599
+1699266916627	geckodriver	INFO	Listening on 127.0.0.1:63274
+1699266918624	mozrunner::runner	INFO	Running command: "C:\\P1699266919845	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63281" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileISZKGz"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by1699266920144	Marionette	INFO	Marionette enabled
+Dynamicall1699266920711	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1699266920924	Marionette	INFO	Listening on port 63297
+WebDriver BiDi listening on ws://127.0.0.1:63281
+Read port: 63297
+1699266921091	RemoteAgent	WADevTools listening on ws://127.0.0.1:63275/devtools/browser/DevTools listening on ws://127.0.0.1:6console.error: (new TypeError("linkMap is undefined", "resouJavaScript error: https://www.eracast.cc/sign_up, line 127: TypeError: $(...).strength_meter is not a function
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.eracast.cc."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.eracast.cc."
+JavaScript error: https://www.eracast.cc/channels?success=You%20have%20successfully%20created%20a%20EraCast%20account, line 391: ReferenceError: __wm is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 491: ReferenceError: started_at is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 491: ReferenceError: started_at is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 491: ReferenceError: started_at is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 491: ReferenceError: started_at is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 491: ReferenceError: started_at is not defined
+1699266950745	addons.xpi	ERROR	System addon update list error SyntaxError: The URI is malformed.
+JavaScript error: https://www.eracast.cc/upload_video, line 491: ReferenceError: started_at is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 491: ReferenceError: started_at is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 491: ReferenceError: started_at is not defined
+JavaScript error: https://www.eracast.cc/upload_1699266982864	Marionette	INFO	Stopped listening on port 63293
+Dynamically enable window occlusion 1
+pload_video, line 491: ReferenceError: started_at is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 491: ReferenceError: started_at is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 491: ReferenceError: started_at is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 491: ReferenceError: started_at is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 491: ReferenceError: started_at is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 491: ReferenceError: started_at is not defined
+1699266983502	Marionette	INFO	Stopped listening on port 63297
+Dynamically enable window occlusion 1
+1699296083247	geckodriver	INFO	Listening on 127.0.0.1:59620
+1699296085204	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59621" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileMFrFhV"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1699296086319	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1699296086556	Marionette	INFO	Listening on port 59636
+WebDriver BiDi listening on ws://127.0.0.1:59621
+Read port: 59636
+1699296087233	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59621/devtools/browser/26c07774-ed01-42e4-8d5e-a70507997c12
+console.error: (new TypeError("linkMap is undefined", "resource://gre/modules/NewTabUtils.sys.mjs", 2003))
+JavaScript error: https://www.eracast.cc/sign_up, line 127: TypeError: $(...).strength_meter is not a function
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.eracast.cc."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.eracast.cc."
+JavaScript error: https://www.eracast.cc/channels?success=You%20have%20successfully%20created%20a%20EraCast%20account, line 391: ReferenceError: __wm is not defined
+1699296116355	addons.xpi	ERROR	System addon update list error SyntaxError: The URI is malformed.
+JavaScript error: https://www.eracast.cc/upload_video, line 491: ReferenceError: started_at is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 491: ReferenceError: started_at is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 491: ReferenceError: started_at is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 491: ReferenceError: started_at is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 491: ReferenceError: started_at is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 491: ReferenceError: started_at is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 491: ReferenceError: started_at is not defined
+JavaScript error: https://www.eracast.cc/upload_video, line 491: ReferenceError: started_at is not defined
+JavaScript error: https://discord.com/assets/de2695c5b5cb94dae595.js, line 1: Error: Cannot find module './notosans-400-normalitalic.woff2'
+1699296551333	Marionette	INFO	Stopped listening on port 59636
+Dynamically enable window occlusion 1
+[Parent 6356, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:599
+1699610667671	geckodriver	INFO	Listening on 127.0.0.1:49844
+1699610669643	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49845" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile1236ds"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1699610670238	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1699610670439	Marionette	INFO	Listening on port 49853
+Read port: 49853
+WebDriver BiDi listening on ws://127.0.0.1:49845
+1699610670590	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:49845/devtools/browser/579f6002-cb75-4da1-beab-508df67dd07d
+JavaScript warning: https://botsafeguard.net/cdn/fc/js/6af2c0d87b9879cbf3365be1a208293f84d37b1e/standard/botsafev2_api.js?onload=loadChallenge, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://botsafeguard.net/v2/1.5.5/enforcement.fbfc14b0d793c6ef8359e0e4b4a91f67.js, line 1: TypeError: t.error is undefined
+JavaScript error: https://botsafeguard.net/cdn/fc/js/6af2c0d87b9879cbf3365be1a208293f84d37b1e/standard/botsafev2_api.js?onload=loadChallenge, line 2: uncaught exception: undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/4WwaGfWzeDAeGvs0ZrtmWMJUG7fu6zGPBJzQt4duOkA.js line 2 > eval line 4885 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1699610694981	Marionette	INFO	Stopped listening on port 49853
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1699610741637	geckodriver	INFO	Listening on 127.0.0.1:53817
+1699610743640	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53818" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile0d7ZOr"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1699610744215	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1699610744386	Marionette	INFO	Listening on port 53825
+WebDriver BiDi listening on ws://127.0.0.1:53818
+Read port: 53825
+1699610744784	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:53818/devtools/browser/dc6b8a8e-7bf6-4f82-89d0-255e49040399
+JavaScript warning: https://botsafeguard.net/cdn/fc/js/6af2c0d87b9879cbf3365be1a208293f84d37b1e/standard/botsafev2_api.js?onload=loadChallenge, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://botsafeguard.net/v2/1.5.5/enforcement.fbfc14b0d793c6ef8359e0e4b4a91f67.js, line 1: TypeError: t.error is undefined
+JavaScript error: https://botsafeguard.net/cdn/fc/js/6af2c0d87b9879cbf3365be1a208293f84d37b1e/standard/botsafev2_api.js?onload=loadChallenge, line 2: uncaught exception: undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/4WwaGfWzeDAeGvs0ZrtmWMJUG7fu6zGPBJzQt4duOkA.js line 2 > eval line 4106 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1699610774251	addons.xpi	ERROR	System addon update list error SyntaxError: The URI is malformed.
+JavaScript error: , line 0: TypeError: NetworkError when att1699610859784	mozrunner::run1699610859887	Marionette	INFO	Stopped listening on port 53825
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when atteconsole.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1699610860489	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1699610860656	Marionette	INFO	Listening on port 54126
+WebDriver BiDi listening on ws://127.0.0.1:54119
+Read port: 54126
+1699610860956	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:54119/devtools/browser/c79c3487-8ad9-4884-9925-2b7901f75dfa
+JavaScript warning: https://botsafeguard.net/cdn/fc/js/6af2c0d87b9879cbf3365be1a208293f84d37b1e/standard/botsafev2_api.js?onload=loadChallenge, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://botsafeguard.net/v2/1.5.5/enforcement.fbfc14b0d793c6ef8359e0e4b4a91f67.js, line 1: TypeError: t.error is undefined
+JavaScript error: https://botsafeguard.net/cdn/fc/js/6af2c0d87b9879cbf3365be1a208293f84d37b1e/standard/botsafev2_api.js?onload=loadChallenge, line 2: uncaught exception: undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/4WwaGfWzeDAeGvs0ZrtmWMJUG7fu6zGPBJzQt4duOkA.js line 2 > eval line 5308 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1699610890525	addons.xpi	ERROR	System addon update list error SyntaxError: The URI is malformed.
+1699611004760	geckodriver	INFO	Listening on 127.0.0.1:57174
+1699611006755	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57175" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile2yGnlv"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1699611007578	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1699611007746	Marionette	INFO	Listening on port 57182
+Read port: 57182
+WebDriver BiDi listening on ws://127.0.0.1:57175
+1699611007866	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:57175/devtools/browser/e5fb1c09-e8d5-4a48-a865-cfbd04992f0b
+JavaScript warning: https://botsafeguard.net/cdn/fc/js/6af2c0d87b9879cbf3365be1a208293f84d37b1e/standard/botsafev2_api.js?onload=loadChallenge, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://botsafeguard.net/v2/1.5.5/enforcement.fbfc14b0d793c6ef8359e0e4b4a91f67.js, line 1: TypeError: t.error is undefined
+JavaScript error: https://botsafeguard.net/cdn/fc/js/6af2c0d87b9879cbf3365be1a208293f84d37b1e/standard/botsafev2_api.js?onload=loadChallenge, line 2: uncaught exception: undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/4WwaGfWzeDAeGvs0ZrtmWMJUG7fu6zGPBJzQt4duOkA.js line 2 > eval line 2720 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1699611037891	addons.xpi	ERROR	System addon update list error SyntaxError: The URI is malformed.
+1699611052017	Marionette	INFO	Stopped listening on port 57182
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+[Parent 3524, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:793
+[Parent 3524, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:793
+1699611254694	geckodriver	INFO	Listening on 127.0.0.1:60694
+1699611256669	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60695" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileaf7Rcf"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1699611257929	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1699611258117	Marionette	INFO	Listening on port 60702
+WebDriver BiDi listening on ws://127.0.0.1:60695
+Read port: 60702
+1699611258536	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60695/devtools/browser/5c3eb30f-bb53-4be8-a3a1-f6bf5b66c126
+JavaScript warning: https://botsafeguard.net/cdn/fc/js/6af2c0d87b9879cbf3365be1a208293f84d37b1e/standard/botsafev2_api.js?onload=loadChallenge, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://botsafeguard.net/v2/1.5.5/enforcement.fbfc14b0d793c6ef8359e0e4b4a91f67.js, line 1: TypeError: t.error is undefined
+JavaScript error: https://botsafeguard.net/cdn/fc/js/6af2c0d87b9879cbf3365be1a208293f84d37b1e/standard/botsafev2_api.js?onload=loadChallenge, line 2: uncaught exception: undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/4WwaGfWzeDAeGvs0ZrtmWMJUG7fu6zGPBJzQt4duOkA.js line 2 > eval line 2001 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1699611287964	addons.xpi	ERROR	System addon update list error SyntaxError: The URI is malformed.
+1699611305223	Marionette	INFO	Stopped listening on port 60702
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1699611308832	geckodriver	INFO	Listening on 127.0.0.1:62775
+1699611310829	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62776" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofiles56T4c"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1699611311425	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1699611311628	Marionette	INFO	Listening on port 62783
+Read port: 62783
+WebDriver BiDi listening on ws://127.0.0.1:62776
+1699611311777	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62776/devtools/browser/0e970435-40a5-40d2-b86f-2602d57c7b2f
+JavaScript warning: https://botsafeguard.net/cdn/fc/js/6af2c0d87b9879cbf3365be1a208293f84d37b1e/standard/botsafev2_api.js?onload=loadChallenge, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://botsafeguard.net/v2/1.5.5/enforcement.fbfc14b0d793c6ef8359e0e4b4a91f67.js, line 1: TypeError: t.error is undefined
+JavaScript error: https://botsafeguard.net/cdn/fc/js/6af2c0d87b9879cbf3365be1a208293f84d37b1e/standard/botsafev2_api.js?onload=loadChallenge, line 2: uncaught exception: undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/4WwaGfWzeDAeGvs0ZrtmWMJUG7fu6zGPBJzQt4duOkA.js line 2 > eval line 5320 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1699611328460	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1699611329475	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.eracast.cc/sign_up, line 127: TypeError: $(...).strength_meter is not a function
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.eracast.cc."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.eracast.cc."
+JavaScript error: https://www.eracast.cc/channels?success=You%20have%20successfully%20created%20a%20EraCast%20account%20(verification%20email%20has%20been%20sent), line 391: ReferenceError: __wm is not defined
+1699611341476	addons.xpi	ERROR	System addon update list error SyntaxError: The URI is malformed.
+1699611409318	Marionette	INFO	Stopped listening on port 62783
+Dynamically enable window occlusion 1
+1699611413996	geckodriver	INFO	Listening on 127.0.0.1:63082
+1699611415997	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63083" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilezOT6Xc"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1699611416508	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1699611416667	Marionette	INFO	Listening on port 63090
+WebDriver BiDi listening on ws://127.0.0.1:63083
+Read port: 63090
+1699611416970	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:63083/devtools/browser/4a1f211a-a792-4089-9490-a6f9d72b62fe
+JavaScript warning: https://botsafeguard.net/cdn/fc/js/6af2c0d87b9879cbf3365be1a208293f84d37b1e/standard/botsafev2_api.js?onload=loadChallenge, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://botsafeguard.net/v2/1.5.5/enforcement.fbfc14b0d793c6ef8359e0e4b4a91f67.js, line 1: TypeError: t.error is undefined
+JavaScript error: https://botsafeguard.net/cdn/fc/js/6af2c0d87b9879cbf3365be1a208293f84d37b1e/standard/botsafev2_api.js?onload=loadChallenge, line 2: uncaught exception: undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/4WwaGfWzeDAeGvs0ZrtmWMJUG7fu6zGPBJzQt4duOkA.js line 2 > eval line 3398 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.eracast.cc/sign_up, line 127: TypeError: $(...).strength_meter is not a function
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.eracast.cc."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.eracast.cc."
+1699611437329	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://www.eracast.cc/channels?success=You%20have%20successfully%20created%20a%20EraCast%20account%20(verification%20email%20has%20been%20sent), line 391: ReferenceError: __wm is not defined
+1699611446555	addons.xpi	ERROR	System addon update list error SyntaxError: The URI is malformed.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+JavaScript error: resource://devtools/server/actors/utils/sources-manager.js, line 438: TypeError: channel is null
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1699611536576	Marionette	INFO	Stopped listening on port 63090
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+[Parent 3384, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:793
+[Parent 3384, IPC I/O Parent] WARNING: pipe error: 232: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:599
+1699611538577	geckodriver	INFO	Listening on 127.0.0.1:49604
+1699611540580	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49605" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileJhh99y"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1699611541692	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1699611541855	Marionette	INFO	Listening on port 49612
+WebDriver BiDi listening on ws://127.0.0.1:49605
+Read port: 49612
+1699611542156	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:49605/devtools/browser/cd4539d5-6e72-4a0e-ad27-a592c7236eed
+JavaScript warning: https://botsafeguard.net/cdn/fc/js/6af2c0d87b9879cbf3365be1a208293f84d37b1e/standard/botsafev2_api.js?onload=loadChallenge, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://botsafeguard.net/v2/1.5.5/enforcement.fbfc14b0d793c6ef8359e0e4b4a91f67.js, line 1: TypeError: t.error is undefined
+JavaScript error: https://botsafeguard.net/cdn/fc/js/6af2c0d87b9879cbf3365be1a208293f84d37b1e/standard/botsafev2_api.js?onload=loadChallenge, line 2: uncaught exception: undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/4WwaGfWzeDAeGvs0ZrtmWMJUG7fu6zGPBJzQt4duOkA.js line 2 > eval line 7179 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.eracast.cc/sign_up, line 127: TypeError: $(...).strength_meter is not a function
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.eracast.cc."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.eracast.cc."
+1699611562467	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript error: https://www.eracast.cc/channels?success=You%20have%20successfully%20created%20a%20EraCast%20account%20(verification%20email%20has%20been%20sent), line 391: ReferenceError: __wm is not defined
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+1699611571732	addons.xpi	ERROR	System addon update list error SyntaxError: The URI is malformed.
+JavaScript error: resource://devtools/server/actors/utils/sources-manager.js, line 438: TypeError: channel is null
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.error: "Unable to find target with innerWindowId:8589934603"
+console.error: "Unable to find target with innerWindowId:8589934603"
+console.error: "Unable to find target with innerWindowId:15032385538"
+console.error: "Unable to find target with innerWindowId:15032385538"
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: "Listener for event 'frame' did not return a promise."
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:91:1
+_createResource@resource://devtools/server/actors/network-monitor/network-event-actor.js:186:40
+NetworkEventActor@resource://devtools/server/actors/network-monitor/network-event-actor.js:104:27
+onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:284:19
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:665:46
+#onRequestHeader@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:709:29
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:585:28
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 91, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 91))
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:91:1
+_createResource@resource://devtools/server/actors/network-monitor/network-event-actor.js:186:40
+NetworkEventActor@resource://devtools/server/actors/network-monitor/network-event-actor.js:104:27
+onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:284:19
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:665:46
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:325:33
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 91, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 91))
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:91:1
+_createResource@resource://devtools/server/actors/network-monitor/network-event-actor.js:186:40
+NetworkEventActor@resource://devtools/server/actors/network-monitor/network-event-actor.js:104:27
+onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:284:19
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:665:46
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:330:33
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 91, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 91))
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20231106/r20110914/elements/html/interstitial_ad_frame_fy2021.js, line 32: TypeError: document.body is null
+console.warn: "Listener for event 'frame' did not return a promise."
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20231106/r20110914/elements/html/interstitial_ad_frame_fy2021.js, line 32: TypeError: document.body is null
+JavaScript error: https://tpc.googlesyndication.com/pagead/js/r20231106/r20110914/elements/html/interstitial_ad_frame_fy2021.js, line 32: TypeError: document.body is null
+console.warn: "Inspector destroyed while executing onReflow callback"
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1699611617057	Marionette	INFO	Stopped listening on port 49612
+Dynamically enable window occlusion 1
+1699612200305	geckodriver	INFO	Listening on 127.0.0.1:64606
+1699612202291	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64607" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofileityuSt"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1699612203670	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1699612203864	Marionette	INFO	Listening on port 64614
+WebDriver BiDi listening on ws://127.0.0.1:64607
+Read port: 64614
+1699612204329	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:64607/devtools/browser/87939484-959f-4197-9afb-f7eefabfbb14
+JavaScript warning: https://botsafeguard.net/cdn/fc/js/6af2c0d87b9879cbf3365be1a208293f84d37b1e/standard/botsafev2_api.js?onload=loadChallenge, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://botsafeguard.net/v2/1.5.5/enforcement.fbfc14b0d793c6ef8359e0e4b4a91f67.js, line 1: TypeError: t.error is undefined
+JavaScript error: https://botsafeguard.net/cdn/fc/js/6af2c0d87b9879cbf3365be1a208293f84d37b1e/standard/botsafev2_api.js?onload=loadChallenge, line 2: uncaught exception: undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/GOa2ZK97xVqw-WOSDw2lqG4V8l_qTiI5JNj0tnI6N88.js line 2 > eval line 5791 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.eracast.cc/sign_up, line 127: TypeError: $(...).strength_meter is not a function
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.eracast.cc."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.eracast.cc."
+JavaScript error: https://www.eracast.cc/channels?success=You%20have%20successfully%20created%20a%20EraCast%20account%20(verification%20email%20has%20been%20sent), line 391: ReferenceError: __wm is not defined
+1699612233708	addons.xpi	ERROR	System addon update list error SyntaxError: The URI is malformed.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 599))
+JavaScript error: resource://devtools/server/actors/utils/sources-manager.js, line 438: TypeError: channel is null
+JavaScript error: resource://devtools/server/actors/utils/sources-manager.js, line 438: TypeError: channel is null
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:91:1
+_createResource@resource://devtools/server/actors/network-monitor/network-event-actor.js:186:40
+NetworkEventActor@resource://devtools/server/actors/network-monitor/network-event-actor.js:104:27
+onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:284:19
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:665:46
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:330:33
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 91, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 91))
+console.warn: "Listener for event 'frame' did not return a promise."
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:91:1
+_createResource@resource://devtools/server/actors/network-monitor/network-event-actor.js:186:40
+NetworkEventActor@resource://devtools/server/actors/network-monitor/network-event-actor.js:104:27
+onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:284:19
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:665:46
+#onRequestHeader@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:709:29
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:585:28
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 91, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 91))
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:91:1
+_createResource@resource://devtools/server/actors/network-monitor/network-event-actor.js:186:40
+NetworkEventActor@resource://devtools/server/actors/network-monitor/network-event-actor.js:104:27
+onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:284:19
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:665:46
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:325:33
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 91, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 91))
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:91:1
+_createResource@resource://devtools/server/actors/network-monitor/network-event-actor.js:186:40
+NetworkEventActor@resource://devtools/server/actors/network-monitor/network-event-actor.js:104:27
+onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:284:19
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:665:46
+#onRequestHeader@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:709:29
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:585:28
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 91, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 91))
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:91:1
+_createResource@resource://devtools/server/actors/network-monitor/network-event-actor.js:186:40
+NetworkEventActor@resource://devtools/server/actors/network-monitor/network-event-actor.js:104:27
+onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:284:19
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:665:46
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:330:33
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 91, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 91))
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:91:1
+_createResource@resource://devtools/server/actors/network-monitor/network-event-actor.js:186:40
+NetworkEventActor@resource://devtools/server/actors/network-monitor/network-event-actor.js:104:27
+onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:284:19
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:665:46
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:325:33
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 91, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 91))
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:91:1
+_createResource@resource://devtools/server/actors/network-monitor/network-event-actor.js:186:40
+NetworkEventActor@resource://devtools/server/actors/network-monitor/network-event-actor.js:104:27
+onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:284:19
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:665:46
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:330:33
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 91, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 91))
+console.warn: "Listener for event 'frame' did not return a promise."
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:91:1
+_createResource@resource://devtools/server/actors/network-monitor/network-event-actor.js:186:40
+NetworkEventActor@resource://devtools/server/actors/network-monitor/network-event-actor.js:104:27
+onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:284:19
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:665:46
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:330:33
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 91, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 91))
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:91:1
+_createResource@resource://devtools/server/actors/network-monitor/network-event-actor.js:186:40
+NetworkEventActor@resource://devtools/server/actors/network-monitor/network-event-actor.js:104:27
+onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:284:19
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:665:46
+#onRequestHeader@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:709:29
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:585:28
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 91, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 91))
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:91:1
+_createResource@resource://devtools/server/actors/network-monitor/network-event-actor.js:186:40
+NetworkEventActor@resource://devtools/server/actors/network-monitor/network-event-actor.js:104:27
+onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:284:19
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:665:46
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:325:33
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 91, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 91))
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/shared/network-observer/NetworkUtils.sys.mjs:91:1
+_createResource@resource://devtools/server/actors/network-monitor/network-event-actor.js:186:40
+NetworkEventActor@resource://devtools/server/actors/network-monitor/network-event-actor.js:104:27
+onNetworkEvent@resource://devtools/server/actors/resources/network-events.js:284:19
+#createNetworkEvent@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:665:46
+@resource://devtools/shared/network-observer/NetworkObserver.sys.mjs:330:33
+makeInfallible/<@resource://devtools/shared/DevToolsInfaillibleUtils.sys.mjs:43:22
+Line: 91, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/shared/network-observer/NetworkUtils.sys.mjs", 91))
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.sys.mjs, line 575: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1699612296063	Marionette	INFO	Stopped listening on port 64614
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1699612347975	geckodriver	INFO	Listening on 127.0.0.1:62441
+1699612349951	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62442" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile5zAbZe"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1699612351235	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1699612351408	Marionette	INFO	Listening on port 62449
+WebDriver BiDi listening on ws://127.0.0.1:62442
+Read port: 62449
+1699612351776	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:62442/devtools/browser/07f9174b-588e-48e9-9b3e-9b44e2ca56e2
+JavaScript warning: https://botsafeguard.net/cdn/fc/js/6af2c0d87b9879cbf3365be1a208293f84d37b1e/standard/botsafev2_api.js?onload=loadChallenge, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://botsafeguard.net/v2/1.5.5/enforcement.fbfc14b0d793c6ef8359e0e4b4a91f67.js, line 1: TypeError: t.error is undefined
+JavaScript error: https://botsafeguard.net/cdn/fc/js/6af2c0d87b9879cbf3365be1a208293f84d37b1e/standard/botsafev2_api.js?onload=loadChallenge, line 2: uncaught exception: undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/GOa2ZK97xVqw-WOSDw2lqG4V8l_qTiI5JNj0tnI6N88.js line 2 > eval line 6242 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1699612367062	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+1699612368046	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.eracast.cc/sign_up, line 127: TypeError: $(...).strength_meter is not a function
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.eracast.cc."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.eracast.cc."
+JavaScript error: https://www.eracast.cc/channels?success=You%20have%20successfully%20created%20a%20EraCast%20account%20(verification%20email%20has%20been%20sent), line 391: ReferenceError: __wm is not defined
+1699612381270	addons.xpi	ERROR	System addon update list error SyntaxError: The URI is malformed.
+1699612395376	Marionette	INFO	Stopped listening on port 62449
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+[Parent 15024, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:793
+[Parent 15024, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:793
+1699612397857	geckodriver	INFO	Listening on 127.0.0.1:56277
+1699612399858	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56278" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofilePKU447"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1699612400985	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1699612401144	Marionette	INFO	Listening on port 56285
+WebDriver BiDi listening on ws://127.0.0.1:56278
+Read port: 56285
+1699612401438	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:56278/devtools/browser/f571d11f-2a5e-4f1e-bdaf-a68b991229ed
+JavaScript warning: https://botsafeguard.net/cdn/fc/js/6af2c0d87b9879cbf3365be1a208293f84d37b1e/standard/botsafev2_api.js?onload=loadChallenge, line 2: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: https://botsafeguard.net/v2/1.5.5/enforcement.fbfc14b0d793c6ef8359e0e4b4a91f67.js, line 1: TypeError: t.error is undefined
+JavaScript error: https://botsafeguard.net/cdn/fc/js/6af2c0d87b9879cbf3365be1a208293f84d37b1e/standard/botsafev2_api.js?onload=loadChallenge, line 2: uncaught exception: undefined
+JavaScript warning: https://pagead2.googlesyndication.com/bg/GOa2ZK97xVqw-WOSDw2lqG4V8l_qTiI5JNj0tnI6N88.js line 2 > eval line 1941 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://www.eracast.cc/sign_up, line 127: TypeError: $(...).strength_meter is not a function
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.eracast.cc."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.eracast.cc."
+JavaScript error: https://www.eracast.cc/sign_up, line 134: TypeError: $(...).strength_meter is not a function
+1699612431031	addons.xpi	ERROR	System addon update list error SyntaxError: The URI is malformed.
+1699612432973	Marionette	INFO	Stopped listening on port 56285
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+console.warn: services.settings: blocklists/addons-bloomfilters sync interrupted by shutdown
+console.warn: services.settings: main/normandy-recipes-capabilities sync interrupted by shutdown
+console.warn: services.settings: main/url-classifier-skip-urls sync interrupted by shutdown
+console.warn: services.settings: main/devtools-compatibility-browsers sync interrupted by shutdown
+console.warn: services.settings: main/addons-manager-settings sync interrupted by shutdown
+console.warn: services.settings: main/search-telemetry-v2 sync interrupted by shutdown
+console.warn: services.settings: main/sites-classification sync interrupted by shutdown
+console.warn: services.settings: main/anti-tracking-url-decoration sync interrupted by shutdown
+console.warn: services.settings: main/search-default-override-allowlist sync interrupted by shutdown
+console.warn: services.settings: main/hijack-blocklists sync interrupted by shutdown
+console.warn: services.settings: main/pioneer-study-addons-v1 sync interrupted by shutdown
+console.error: (new AbortError("IndexedDB: main/nimbus-desktop-defaults getLastModified() IndexedDB:  execute() A request was aborted, for example through a call to IDBTransaction.abort.", "resource://services-settings/IDBHelpers.jsm", 18))
